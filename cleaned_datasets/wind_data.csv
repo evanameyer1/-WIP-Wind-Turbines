@@ -1,0 +1,1244 @@
+,plant_id,plant,op,op_id,plant_state,region,rpm,fuel_usage,net_gen
+0,1,Sand Point,"TDX Sand Point Generating, LLC",63560,AK,PACN,WT,3045,347.0
+81,90,Snake River,Nome Joint Utility Systems,13642,AK,PACN,WT,20906,2383.0
+462,508,Lamar Plant,City of Lamar - (CO),10633,CO,MTN,WT,116085,13232.0
+704,692,Medicine Bow,SRIV Partnership LLC,62042,WY,MTN,WT,141429,16121.0
+865,944,Geneseo,City of Geneseo - (IL),7095,IL,ENC,WT,51368,5855.0
+1062,1172,Osage (IA),City of Osage - (IA),14201,IA,WNC,WT,38364,4373.0
+1683,1998,Mountain Lake,City of Mountain Lake - (MN),13048,MN,WNC,WT,26994,3077.0
+1718,2022,Willmar,Willmar Municipal Utilities,20737,MN,WNC,WT,33538,3822.879
+1719,2022,Willmar,Willmar Municipal Utilities,20737,MN,WNC,WT,29258,3335.121
+1723,2024,Worthington,City of Worthington - (MN),21013,MN,WNC,WT,94793,10805.0
+1914,2240,Lon Wright,City of Fremont - (NE),6779,NE,WNC,WT,1750872,199575.0
+3494,6304,Kotzebue Hybrid,Kotzebue Electric Assn Inc,10451,AK,PACN,WT,34943,3983.0
+3888,7381,Searsburg Wind Turbine,Green Mountain Power Corp,7601,VT,NEW,WT,107468,12250.0
+3957,7501,Princeton Wind Farm,Town of Princeton - (MA),15371,MA,NEW,WT,36258,4133.0
+3972,7526,Solano Wind,Sacramento Municipal Util Dist,16534,CA,PACC,WT,4875815,555775.0
+4050,7771,Springview,Bluestem LLC,58190,NE,WNC,WT,88308,10066.0
+4150,7855,Moorhead Wind Turbine,City of Moorhead - (MN),12894,MN,WNC,WT,19415,2213.0
+4176,7886,Wind Turbine,Madison Gas & Electric Co,11479,WI,ENC,WT,153905,17543.0
+4215,7927,Buffalo Mountain,Tennessee Valley Authority,18642,TN,ESC,WT,0,0.0
+4225,7936,Nine Canyon,Energy Northwest,20160,WA,PACC,WT,2345741,267382.0
+4246,7965,Salt Valley Wind Plant,Lincoln Electric System,11018,NE,WNC,WT,21503,2451.0
+4247,7966,Iowa Distributed Wind Generation Project,City of Algona - (IA),309,IA,WNC,WT,44961,5125.0
+4252,7974,Chamberlain Wind Project,Basin Electric Power Coop,1307,SD,WNC,WT,8325,949.0
+4460,10005,Dinosaur Point,International Turbine Res Inc,9397,CA,PACC,WT,83809,9553.0
+4618,10191,Tehachapi Wind Resource I,CalWind Resources Inc,2719,CA,PACC,WT,121067,13800.0
+4966,10586,Cameron Ridge LLC,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,1296623,147797.0
+4969,10597,Ridgetop Energy LLC,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,346165,39458.0
+5104,10718,Karen Avenue Wind Farm,San Gorgonio Farms Inc,16630,CA,PACC,WT,257294,29328.0
+5201,10823,Deer Island Treatment Plant,Massachusetts Wtr Rauth-Deer I,11427,MA,NEW,WT,16527,1883.97
+5525,50276,Wintec Energy Ltd,Wintec Energy Ltd,20707,CA,PACC,WT,5108,582.0
+5533,50281,San Gorgonio Farms Wind Farm,San Gorgonio Farms Inc,16630,CA,PACC,WT,754303,85980.0
+5628,50386,Windland,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,46479,5298.0
+5771,50485,Altech III,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,0,0.0
+5798,50532,Victory Garden (Tehachapi),Wind Stream Operations LLC,56899,CA,PACC,WT,191243,21799.0
+5799,50535,Mesa Wind Power Corp,Brookfield Renewable Trading and Marketing LP,63235,CA,PACC,WT,7124,812.0
+5800,50536,Sky River Wind Energy Center,Sky River Wind LLC,64156,CA,PACC,WT,324463,36984.0
+5816,50552,GPS Cabazon Wind LLC,GlidePath Power Operations LLC,61728,CA,PACC,WT,297545,33916.0
+5817,50553,Edom Hills Project 1 LLC,"Red Marlin Wind Ventures, LLC",61208,CA,PACC,WT,260031,29640.0
+5952,50690,San Gorgonio Westwinds II LLC,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,1069850,121948.0
+5990,50754,Oak Creek Energy Systems I,Oak Creek Energy System Inc II,13938,CA,PACC,WT,545884,62223.0
+6041,50820,East Winds Project,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,62306,7102.0
+6042,50821,Mojave 16/17/18,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,859676,97991.0
+6351,52142,Mojave 3/4/5,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,1296141,147742.0
+6375,52160,Victory Garden Phase IV LLC,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,16195,1846.0
+6376,52161,Terra-Gen 251 Wind LLC,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,0,0.0
+6377,52162,85 A,Wind Wall 1 LLC,64311,CA,PACC,WT,0,0.0
+6378,52163,85 B,Wind Wall 1 LLC,64311,CA,PACC,WT,0,0.0
+6379,52165,Helzel & Schwarzhoff 88 Wind Farm,"Terra-Gen 251 Wind, LLC",61444,CA,PACC,WT,0,0.0
+6610,54298,Coram Energy LLC (ECT),Brookfield Renewable Trading and Marketing LP,63235,CA,PACC,WT,243117,27712.0
+6611,54299,Coram Energy LLC,Brookfield Renewable Trading and Marketing LP,63235,CA,PACC,WT,85319,9725.0
+6612,54300,CTV Power Purchase Contract Trust,Brookfield Renewable Trading and Marketing LP,63235,CA,PACC,WT,105268,11999.0
+6725,54453,EDF Renewable Windfarm V Inc,"EDF Renewable Asset Holdings, Inc.",57170,CA,PACC,WT,183539,20921.0
+6726,54454,San Gorgonio Windplant WPP1993,"FPL Energy Operating Services, Inc.",49963,CA,PACC,WT,1617329,184353.0
+6861,54647,TPC Windfarms LLC,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,455345,51903.0
+6862,54650,Alta Mesa Repower LLC,Alta Mesa 640 LLC,64228,CA,PACC,WT,0,0.0
+6894,54681,Difwind Farms Ltd I,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,0,0.0
+6895,54682,Difwind Farms Ltd II,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,0,0.0
+6896,54685,Difwind Farms Ltd V,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,0,0.0
+6897,54686,Difwind Farms Ltd VI,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,215326,24544.0
+6937,54750,Coram Tehachapi,Brookfield Renewable Trading and Marketing LP,63235,CA,PACC,WT,92230,10513.0
+6991,54793,Storm Lake 1,Allete Clean Energy,59496,IA,WNC,WT,1818539,207288.0
+7083,54909,Tehachapi Wind Resource II,CalWind Resources Inc,2719,CA,PACC,WT,381836,43524.0
+7100,54931,Ridgetop,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,1226051,139753.0
+7125,54979,Big Spring Wind Power Facility,Terra-Gen Operating Co-Wind,2770,TX,WSC,WT,644368,73449.0
+7275,55125,Vansycle,ESI Vansycle Partners LP,6017,OR,PACC,WT,733634,83624.0
+7366,55208,Lake Benton I,Allete Clean Energy,59496,MN,WNC,WT,2133235,243159.0
+7432,55265,Lake Benton II,Northern States Power Co - Minnesota,13781,MN,WNC,WT,3991671,454995.0
+7457,55287,Storm Lake II,Allete Clean Energy,59496,IA,WNC,WT,1327037,151264.0
+7518,55342,Woodstock Windfarm,Consolidated Edison Development Inc.,56769,MN,WNC,WT,283008,32259.0
+7534,55353,Lakota Ridge LLC,Longroad Energy Services LLC,61219,MN,WNC,WT,142598,16254.0
+7535,55354,Shaokatan Hills LLC,Longroad Energy Services LLC,61219,MN,WNC,WT,202113,23038.0
+7543,55368,Wethersfield Wind Farm,CHI Energy Inc,34688,NY,MAT,WT,19415,2213.0
+7576,55396,Green Power I,FPL Energy Green Power,49750,CA,PACC,WT,105128,11983.0
+7698,55560,FPL Energy Vansycle LLC (WA),FPL Energy Vansycle LLC,6607,WA,PACC,WT,3825923,436102.0
+7699,55561,Tsar Nicholas LLC,CHI Operations Inc,54725,MN,WNC,WT,48233,5498.0
+7700,55562,Sun River LLC,CHI Operations Inc,54725,MN,WNC,WT,48233,5498.0
+7701,55563,Julia Hills LLC,CHI Operations Inc,54725,MN,WNC,WT,48233,5498.0
+7702,55564,Jessica Mills LLC,CHI Operations Inc,54725,MN,WNC,WT,48233,5498.0
+7703,55565,Jack River LLC,CHI Operations Inc,54725,MN,WNC,WT,48233,5498.0
+7704,55566,Autumn Hills LLC,CHI Operations Inc,54725,MN,WNC,WT,48233,5498.0
+7705,55567,Winters Spawn LLC,CHI Operations Inc,54725,MN,WNC,WT,39276,4477.0
+7706,55568,Twin Lake Hills LLC,CHI Operations Inc,54725,MN,WNC,WT,41285,4706.0
+7707,55569,Spartan Hills LLC,CHI Operations Inc,54725,MN,WNC,WT,40427,4608.0
+7708,55570,Soliloquoy Ridge LLC,CHI Operations Inc,54725,MN,WNC,WT,40329,4597.0
+7709,55571,Ruthton Ridge LLC,CHI Operations Inc,54725,MN,WNC,WT,39469,4499.0
+7710,55572,Hope Creek LLC,CHI Operations Inc,54725,MN,WNC,WT,43393,4946.0
+7711,55573,Hadley Ridge LLC,CHI Operations Inc,54725,MN,WNC,WT,41567,4738.0
+7712,55574,Florence Hills LLC,CHI Operations Inc,54725,MN,WNC,WT,40803,4651.0
+7713,55576,Agassiz Beach LLC,CHI Operations Inc,54725,MN,WNC,WT,41205,4697.0
+7714,55579,Llano Estacado Wind Ranch,Llano Estacado Wind Ranch,62136,TX,WSC,WT,1308713,149175.0
+7715,55581,King Mountain Wind Ranch 1,FPL Energy Upton Wind LP,6354,TX,WSC,WT,5271317,600857.0
+7733,55607,Foote Creek I,PacifiCorp,14354,WY,MTN,WT,431596,49196.0
+7734,55608,Foote Creek II,Terra-Gen Operating Co-Wind,2770,WY,MTN,WT,0,0.0
+7735,55609,Foote Creek III,Terra-Gen Operating Co-Wind,2770,WY,MTN,WT,0,0.0
+7736,55610,Foote Creek IV,Terra-Gen Operating Co-Wind,2770,WY,MTN,WT,335295,38219.0
+7798,55719,Mountain View I&2,AES Wind Generation Inc,19740,CA,PACC,WT,1699698,193742.0
+7800,55734,Gray County Wind Energy,Gray County Wind Energy LLC,7531,KS,WNC,WT,1850042,210879.0
+7804,55739,Condon Windpower LLC,Allete Clean Energy,59496,OR,PACC,WT,931739,106205.0
+7805,55740,Rock River I LLC,Shell Wind Energy Inc.,17058,WY,MTN,WT,1326248,151174.0
+7806,55741,Ridge Crest Wind Partners,EDF Renewable Services Inc,5906,CO,MTN,WT,629209,71721.0
+7807,55742,Montfort Wind Energy Center,Wisconsin Electric Power Co,20847,WI,ENC,WT,462417,52709.0
+7808,55747,NWP Indian Mesa Wind Farm,NWP Indian Mesa Wind Farm LP,13866,TX,WSC,WT,2087894,237991.0
+7818,55769,Madison Windpower LLC,Madison Windpower LLC,49880,NY,MAT,WT,142324,16223.0
+7820,55782,Noble Ridge LLC,RENEW Energy Inc,56689,MN,WNC,WT,6360,725.0
+7824,55790,Fenner Wind,CHI Energy Inc,34688,NY,MAT,WT,544997,62122.0
+7825,55795,Woodward Mountain II,Pecos Wind II LP,14629,TX,WSC,WT,1440246,164168.0
+7826,55796,Woodward Mountain I,Pecos Wind I LP,14628,TX,WSC,WT,1514096,172586.0
+7833,55803,Somerset Windpower LLC,GlidePath Power Operations LLC,61728,PA,MAT,WT,72983,8319.0
+7834,55804,Northern Iowa Windfarm,Black Hills Electric Generation LLC,61973,IA,WNC,WT,1126778,128437.0
+7835,55805,Mill Run Windpower LLC,GlidePath Power Operations LLC,61728,PA,MAT,WT,154686,17632.0
+7837,55809,Kas Brothers Windfarm,Kas Brothers Windfarm LLC,10046,MN,WNC,WT,27433,3127.0
+7841,55816,Hawkeye Power Partners LLC,Hawkeye Power Partners LLC,8294,IA,WNC,WT,695665,79296.0
+7867,55871,Klondike Wind Power,Avangrid Renewables LLC,15399,OR,PACC,WT,463979,52887.0
+7890,55944,Bay Windpower I,Bay Windpower LLC,1361,MI,ENC,WT,21739,2478.0
+7902,55968,Trent Wind Farm LP,Trent Wind Farm LP,19171,TX,WSC,WT,4876383,555840.0
+7914,55980,Champepaden Wind Power,"EDF Renewable Asset Holdings, Inc.",57170,MN,WNC,WT,13897,1584.0
+7919,55986,Mountaineer Wind Energy Center,GlidePath Power Operations LLC,61728,WV,SAT,WT,1173549,133768.0
+7921,55989,FPL Energy Vansycle LLC (OR),FPL Energy Vansycle LLC,6607,OR,PACC,WT,2655869,302732.0
+7925,55992,Desert Sky,Desert Sky Wind Farm LP,49796,TX,WSC,WT,4731964,539378.0
+7926,55995,Minot Wind Project,Basin Electric Power Coop,1307,ND,WNC,WT,163765,18667.0
+7932,56001,Waymart Wind,GlidePath Power Operations LLC,61728,PA,MAT,WT,1150798,131175.0
+7933,56002,Minwind,"Community Renewables, LLC",60580,MN,WNC,WT,50952,5808.0
+7938,56010,Hancock County Wind Energy Center,"FPL Energy Hancock County Wind, LLC",6850,IA,WNC,WT,2168798,247213.0
+7939,56011,Cabazon Wind Partners,Shell Wind Energy Inc.,17058,CA,PACC,WT,905682,103235.0
+7940,56012,Whitewater Hill Wind Partners,Shell Wind Energy Inc.,17058,CA,PACC,WT,1161325,132375.0
+7980,56052,"Meyersdale Windpower, LLC",GlidePath Power Operations LLC,61728,PA,MAT,WT,621698,70865.0
+7982,56054,G McNeilus Wind Farm Dodge Center,Garwin McNeilus,6985,MN,WNC,WT,819689,93433.0
+7997,56075,High Winds LLC,"FPLE High Winds, LLC",8565,CA,PACC,WT,2745879,312992.0
+8006,56081,Blue Canyon Windpower,Blue Canyon Windpower LLC,1881,OK,WSC,WT,1881834,214503.0
+8008,56092,South Dakota Wind Energy Cente,FPL Energy South Dakota Wind LLC,34721,SD,WNC,WT,740864,84448.0
+8009,56093,TransAlta Wyoming Wind,NextEra Energy Operating Services LLC,58528,WY,MTN,WT,3308650,377140.0
+8010,56094,Oklahoma Wind Energy Center,FPL Energy Oklahoma Wind LLC,34719,OK,WSC,WT,2458993,280291.0
+8011,56097,New Mexico Wind Energy Center,FPL Energy New Mexico Wind LLC,34717,NM,MTN,WT,5030341,573389.0
+8013,56099,FPL Energy North Dakota Wind I/II,FPL Energy North Dakota Wind LLC,34723,ND,WNC,WT,863316,98406.0
+8021,56106,Kimball Wind,"Kimball Wind, LLC",61369,NE,WNC,WT,1115721,127177.0
+8023,56111,Brazos Wind Farm,Shell Wind Energy Inc.,17058,TX,WSC,WT,2898802,330423.0
+8024,56112,Mountain View III,Avangrid Renewables LLC,15399,CA,PACC,WT,511545,58309.0
+8039,56123,Minwind 3-9,"Rock County Energy Center, LLC",60558,MN,WNC,WT,0,0.0
+8055,56142,"Chanarambie Power Partners, LLC",Allete Clean Energy,59496,MN,WNC,WT,1992821,227154.0
+8068,56153,Viking Wind Partners,Allete Clean Energy,59496,MN,WNC,WT,311881,35550.0
+8069,56160,"Mendota Hills, LLC","Leeward Asset Management, LLC",50123,IL,ENC,WT,2125336,242259.0
+8070,56162,Ainsworth Wind,Nebraska Public Power District,13337,NE,WNC,WT,1070999,122079.0
+8081,56172,Flying Cloud Power Partners LLC,Avangrid Renewables LLC,15399,IA,WNC,WT,1167731,133105.0
+8082,56173,Colorado Green Holdings LLC,Avangrid Renewables LLC,15399,CO,MTN,WT,2170555,247413.0
+8083,56174,Moraine Wind LLC,Avangrid Renewables LLC,15399,MN,WNC,WT,964189,109904.0
+8104,56195,Combine Hills I,Eurus Combine Hills I LLC,49844,OR,PACC,WT,1062850,121150.0
+8110,56199,TG Windfarm LLC,TG Windfarm LLC,61141,MN,WNC,WT,29634,3378.0
+8111,56200,CG Windfarm LLC,CG Windfarm LLC,61140,MN,WNC,WT,14818,1689.0
+8112,56201,Bisson Windfarm LLC,Bisson Windfarm LLC,61139,MN,WNC,WT,29634,3378.0
+8113,56202,Tofteland Windfarm LLC,Tofteland Windfarm LLC,49867,MN,WNC,WT,29634,3378.0
+8114,56203,Westridge Windfarm LLC,Westridge Windfarm LLC,61142,MN,WNC,WT,14818,1689.0
+8115,56204,Fey Windfarm LLC,Fey Windfarm LLC,49869,MN,WNC,WT,36364,4145.0
+8116,56205,Windcurrent Farms LLC,Windcurrent Farms LLC,49870,MN,WNC,WT,34407,3922.0
+8117,56206,K-Brink Windfarm LLC,"K-brink Windfarm, LLC",61120,MN,WNC,WT,32812,3740.0
+8118,56207,DL Windy Acres LLC,Brewster,56800,MN,WNC,WT,21352,2434.0
+8119,56208,S&P Windfarm LLC,Brewster,56800,MN,WNC,WT,21352,2434.0
+8120,56209,Boeve Windfarm LLC,Boeve Windfarm LLC,49874,MN,WNC,WT,37559,4281.0
+8121,56210,B&K Energy Systems LLC,Brewster,56800,MN,WNC,WT,21352,2434.0
+8122,56211,Sweetwater Wind 1 LLC,"Leeward Asset Management, LLC",50123,TX,WSC,WT,1275815,145425.0
+8123,56212,Sweetwater Wind 2 LLC,"Leeward Asset Management, LLC",50123,TX,WSC,WT,3017088,343906.0
+8124,56215,Allendorf,E&E Enterprises LLC,57202,IA,WNC,WT,15844,1806.0
+8128,56225,Aeolus Wind Facility,Aeolus Wind LLC,49903,TX,WSC,WT,9667,1102.0
+8129,56226,Bowling Green Wind,"American Mun Power-Ohio, Inc",40577,OH,ENC,WT,81230,9259.0
+8146,56240,Buffalo Gap Wind Farm,AES Wind Generation Inc,19740,TX,WSC,WT,2898425,330380.0
+8156,56251,Intrepid,MidAmerican Energy Co,12341,IA,WNC,WT,4558390,519593.0
+8157,56252,Century,MidAmerican Energy Co,12341,IA,WNC,WT,5000793,570021.0
+8159,56255,Hopkins Ridge Wind,Puget Sound Energy Inc,15500,WA,PACC,WT,3637925,414673.0
+8175,56270,Callahan Divide Wind Energy Center,"FPL Energy Callahan Wind, LLC",50012,TX,WSC,WT,3785243,431465.0
+8176,56271,Diablo Winds LLC,GlidePath Power Operations LLC,61728,CA,PACC,WT,491691,56046.0
+8177,56273,Weatherford Wind Energy Center,"FPL Energy Weatherford, LLC",50014,OK,WSC,WT,3641313,415059.0
+8179,56275,Helzel & Schwarzhoff 86,Wind Stream Operations LLC,56899,CA,PACC,WT,24758,2822.0
+8180,56276,ZCO,Wind Stream Operations LLC,56899,CA,PACC,WT,16274,1855.0
+8190,56290,Maple Ridge Wind Farm,"Flat Rock Windpower, LLC",54684,NY,MAT,WT,6502750,741223.0
+8191,56291,Horse Hollow Wind Energy Center,FPL Energy Horse Hollow LLC,50063,TX,WSC,WT,22050559,2513457.0
+8194,56293,Caprock Wind Farm,"Leeward Asset Management, LLC",50123,NM,MTN,WT,2425900,276519.0
+8196,56295,Kumeyaay Wind,"Leeward Asset Management, LLC",50123,CA,PACC,WT,1259144,143525.0
+8197,56296,Trimont Area Wind Farm,Avangrid Renewables LLC,15399,MN,WNC,WT,2607985,297274.0
+8198,56297,Crescent Ridge,"Leeward Asset Management, LLC",50123,IL,ENC,WT,1158660,132071.0
+8201,56299,Wind Park Bear Creek,"Leeward Asset Management, LLC",50123,PA,MAT,WT,501895,57209.0
+8202,56300,Jersey-Atlantic Wind Farm,"Leeward Asset Management, LLC",50123,NJ,MAT,WT,175450,19999.0
+8203,56301,Wolverine Creek,Invenergy Services LLC,49893,ID,MTN,WT,1626663,185417.0
+8204,56302,Oasis Wind,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,719306,81991.0
+8205,56303,Elk River Wind,Avangrid Renewables LLC,15399,KS,WNC,WT,3054310,348149.0
+8206,56304,San Juan Mesa Wind Project LLC,NRG Energy Gas & Wind Holdings Inc,59883,NM,MTN,WT,3556926,405440.0
+8207,56307,Adams Wind Farm,Consolidated Edison Development Inc.,56769,MN,WNC,WT,420129,47889.0
+8208,56308,Fossil Gulch,Greenbacker Renewable Energy Corporation,60025,ID,MTN,WT,240924,27462.0
+8213,56311,Sweetwater Wind 3 LLC,"Leeward Asset Management, LLC",50123,TX,WSC,WT,3703171,422110.0
+8221,56320,Spring Canyon,Invenergy Services LLC,49893,CO,MTN,WT,1597143,182052.0
+8224,56322,Wild Horse,Puget Sound Energy Inc,15500,WA,PACC,WT,6710540,764908.0
+8234,56335,Blue Canyon Windpower II,Blue Canyon Windpower II LLC,54707,OK,WSC,WT,3900185,444567.0
+8235,56336,Aragonne Wind LLC,"Leeward Asset Management, LLC",50123,NM,MTN,WT,2174685,247884.0
+8236,56337,Sweetwater Wind 4 LLC,"Leeward Asset Management, LLC",50123,TX,WSC,WT,6136924,699524.0
+8237,56338,High Trail Wind Farm LLC,High Trail Wind Farm LLC,54709,IL,ENC,WT,4606035,525024.0
+8246,56347,Cedar Ridge,Wisconsin Power & Light Co,20856,WI,ENC,WT,1614452,184025.0
+8252,56351,Spearville,Evergy Metro,10000,KS,WNC,WT,3256776,371227.0
+8253,56355,Whispering Willow Wind Farm - East,Interstate Power and Light Co,9417,IA,WNC,WT,3908144,445474.0
+8256,56357,FPL Energy Burleigh County Wind,FPL Energy Burleigh County Wind LLC,54717,ND,WNC,WT,1557769,177564.0
+8257,56359,Klondike Windpower II,Avangrid Renewables LLC,15399,OR,PACC,WT,1773277,202129.0
+8258,56360,Leaning Juniper,PacifiCorp,14354,OR,PACC,WT,2775497,316368.0
+8259,56361,Big Horn Wind Project,Avangrid Renewables LLC,15399,WA,PACC,WT,5268115,600492.0
+8260,56362,Shiloh I Wind Project,Avangrid Renewables LLC,15399,CA,PACC,WT,3456842,394032.0
+8266,56369,Casselman Wind Power Project,Avangrid Renewables LLC,15399,PA,MAT,WT,829075,94503.0
+8267,56371,Cedar Creek Wind,"Leeward Asset Management, LLC",50123,CO,MTN,WT,6904492,787016.0
+8268,56372,Sweetwater Wind 5,"Leeward Asset Management, LLC",50123,TX,WSC,WT,1708734,194772.0
+8271,56376,Pike County Wind Power,Illinois Rural Electric Coop,9209,IL,ENC,WT,21195,2416.0
+8272,56377,Judith Gap Wind Energy Center,Invenergy Services LLC,49893,MT,MTN,WT,4539114,517396.0
+8273,56378,Pakini Nui Wind Farm,Apollo Energy Corp,794,HI,PACN,WT,1042278,118805.0
+8274,56379,Victory Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,3109020,354385.0
+8275,56380,Centennial Wind Farm,Oklahoma Gas & Electric Co,14063,OK,WSC,WT,2072017,236181.0
+8276,56383,Northern Iowa Windpower II,Avangrid Renewables LLC,15399,IA,WNC,WT,1226255,139776.0
+8277,56386,Top of Iowa Windfarm III,Madison Gas & Electric Co,11479,IA,WNC,WT,428534,48847.0
+8278,56391,Blue Sky Green Field Wind Project,Wisconsin Electric Power Co,20847,WI,ENC,WT,2953176,336621.0
+8279,56392,FPL Energy Oliver Wind I LLC,FPL Energy Oliver County Wind,55696,ND,WNC,WT,1153729,131509.0
+8280,56394,Forest Creek Wind Farm LLC,RWE Renewables Americas LLC,56215,TX,WSC,WT,2743447,312715.0
+8281,56395,Mesquite Wind Power LLC,Mesquite Wind LLC,54759,TX,WSC,WT,4248413,484260.0
+8283,56399,Lempster Wind LLC,Avangrid Renewables LLC,15399,NH,NEW,WT,593739,67678.0
+8296,56408,Agriwind,"AgriWind Project, LLC",54789,IL,ENC,WT,115802,13200.0
+8297,56409,Stahl Wind Energy,Longroad Energy Services LLC,61219,MN,WNC,WT,41602,4742.0
+8298,56410,Carstensen Wind,Longroad Energy Services LLC,61219,MN,WNC,WT,38453,4383.0
+8299,56411,Northern Lights Wind LLC,Longroad Energy Services LLC,61219,MN,WNC,WT,32732,3731.0
+8300,56412,Lucky Wind,Longroad Energy Services LLC,61219,MN,WNC,WT,26555,3027.0
+8301,56413,Greenback Energy,Longroad Energy Services LLC,61219,MN,WNC,WT,28144,3208.0
+8302,56414,Redwood Falls Wind,Southern Minnesota Mun P Agny,40580,MN,WNC,WT,86264,9833.0
+8303,56415,Fairmont Wind,Southern Minnesota Mun P Agny,40580,MN,WNC,WT,130042,14823.0
+8304,56416,Michigan Wind 1,"Michigan Wind 1, LLC",54800,MI,ENC,WT,1484392,169200.0
+8310,56424,Mower County Wind Energy Center,FPL Energy Mower County LLC,54819,MN,WNC,WT,1777058,202560.0
+8316,56432,Wildorado Wind LLC,NRG Energy Gas & Wind Holdings Inc,59883,TX,WSC,WT,5244805,597835.0
+8317,56433,Pine Tree Wind Power Project,Los Angeles Department of Water & Power,11208,CA,PACC,WT,2284113,260357.0
+8318,56434,Burley Butte Windpark,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,549191,62600.0
+8319,56435,Golden Valley Wind Park LLC,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,291002,33170.0
+8320,56437,Milner Dam Wind Park LLC,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,517080,58940.0
+8321,56439,Oregon Trail Wind Park,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,354526,40411.0
+8322,56440,Pilgrim Stage Wind Park,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,301825,34404.0
+8323,56441,Salmon Falls Wind Park,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,578703,65964.0
+8324,56442,Thousand Springs Wind Park,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,299422,34130.0
+8325,56443,Tuana Gulch Wind Park,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,277366,31616.0
+8328,56446,Buena Vista Energy LLC,"Leeward Asset Management, LLC",50123,CA,PACC,WT,748046,85267.0
+8329,56447,Hawi Wind Farm,"EDF Renewable Asset Holdings, Inc.",57170,HI,PACN,WT,233870,26658.0
+8330,56448,Mars Hill Wind Farm Project,"Evergreen Wind, LLC",59155,ME,NEW,WT,1161633,132410.0
+8331,56449,Kaheawa Pastures Wind Farm Hybrid,"Evergreen Wind, LLC",59155,HI,PACN,WT,951896,108503.0
+8332,56450,GSG LLC,"Leeward Asset Management, LLC",50123,IL,ENC,WT,1647228,187761.0
+8333,56451,Allegheny Ridge Wind Farm,"Leeward Asset Management, LLC",50123,PA,MAT,WT,1877826,214046.0
+8336,56457,Post Wind Farm LP,FPL Energy Red Canyon LLC,54870,TX,WSC,WT,2921339,332992.0
+8340,56459,MinnDakota Wind LLC,Avangrid Renewables LLC,15399,MN,WNC,WT,3735050,425744.0
+8341,56460,Twin Buttes Wind Project,Avangrid Renewables LLC,15399,CO,MTN,WT,2328109,265372.0
+8349,56466,Marengo Wind Plant,PacifiCorp,14354,WA,PACC,WT,5692186,648830.0
+8352,56468,Klondike Windpower III,Avangrid Renewables LLC,15399,OR,PACC,WT,7179998,818420.0
+8354,56470,Locust Ridge,Avangrid Renewables LLC,15399,PA,MAT,WT,597680,68127.0
+8367,56479,Sand Bluff Wind Farm,RWE Renewables Americas LLC,56215,TX,WSC,WT,1255452,143104.0
+8372,56483,Post Oak Wind LLC,Mesquite Wind LLC,54759,TX,WSC,WT,4637347,528593.0
+8373,56484,Buffalo Gap 2 Wind Farm,AES Wind Generation Inc,19740,TX,WSC,WT,4241790,483505.0
+8374,56485,Biglow Canyon Wind Farm,Portland General Electric Co,15248,OR,PACC,WT,10107278,1152089.0
+8375,56487,White Creek Wind Farm,White Creek Wind 1 LLC,55907,WA,PACC,WT,5672816,646622.0
+8376,56488,Smoky Hills Wind Project Phase I,Smoky Hills Wind Farm I LLC,55886,KS,WNC,WT,2413401,275094.0
+8378,56493,Buffalo Mountain Energy Center,Invenergy Services LLC,49893,TN,ESC,WT,343772,39185.0
+8379,56494,Prairie Star Wind Farm,High Prairie Wind Farm II LLC,54904,MN,WNC,WT,2539880,289511.0
+8380,56495,NedPower Mount Storm,NedPower Mt Storm LLC,62810,WV,SAT,WT,5728427,652961.0
+8389,56501,Pomeroy Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,8046727,917215.0
+8395,56506,Scurry County Wind LP,Invenergy Services LLC,49893,TX,WSC,WT,2738563,312158.0
+8424,56536,Cow Branch,"Cow Branch Wind Power, LLC",55734,MO,WNC,WT,787793,89797.41
+8425,56537,Conception,"CR Clearing, LLC",55735,MO,WNC,WT,728770,83069.74
+8426,56538,Loess Hills,Loess Hills Wind Farm LLC,55736,MO,WNC,WT,55277,6300.9
+8430,56543,Eastridge Wind Project,Eastridge Wind Project,62005,MN,WNC,WT,164143,18710.0
+8431,56544,Windom Wind Project,Midwest Power Partners LLC,60661,MN,WNC,WT,264593,30160.0
+8442,56555,Bluegrass Ridge,"Wind Capital Holdings, LLC",55737,MO,WNC,WT,753880,85931.73
+8444,56560,Porterhouse Wind (4) LLC,GlidePath Power Operations LLC,61728,TX,WSC,WT,627252,71498.0
+8445,56561,Filet Wind (5) LLC,GlidePath Power Operations LLC,61728,TX,WSC,WT,47610,5427.0
+8446,56562,Tenderloin Wind (6) LLC,GlidePath Power Operations LLC,61728,TX,WSC,WT,51524,5873.0
+8447,56563,Peetz Table Wind Energy,FPL Peetz Table Wind Energy,55785,CO,MTN,WT,5901922,672737.0
+8454,56570,Terra-Gen VG Wind LLC,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,94924,10820.0
+8456,56573,FPL Energy Oliver Wind II LLC,FPL Energy Oliver County Wind II LLC,54799,ND,WNC,WT,1559621,177775.0
+8457,56575,Steel Winds Wind Farm,"Evergreen Wind, LLC",59155,NY,MAT,WT,453549,51698.0
+8458,56577,Shane's Wind Machine,Shane's Wind Machine LLC,55832,MN,WNC,WT,45367,5171.0
+8459,56580,Blue Breezes LLC,Moore 1,56807,MN,WNC,WT,12439,1418.0
+8460,56581,Blue Breezes II LLC,Moore 1,56807,MN,WNC,WT,11414,1301.0
+8461,56586,Sunset Breeze LLC,Midwest Power Partners LLC,60661,MN,WNC,WT,17616,2008.0
+8462,56587,Minnesota Breeze LLC,Midwest Power Partners LLC,60661,MN,WNC,WT,17616,2008.0
+8463,56588,G Flow Wind LLC,Midwest Power Partners LLC,60661,MN,WNC,WT,17616,2008.0
+8464,56589,Wolf Wind Enterprises LLC,Midwest Power Partners LLC,60661,MN,WNC,WT,17616,2008.0
+8465,56590,Green Acres Breeze LLC,Midwest Power Partners LLC,60661,MN,WNC,WT,17616,2008.0
+8466,56591,Horseshoe Bend Wind Park,Cycle Power Partners,61185,MT,MTN,WT,209473,23877.0
+8467,56592,Champion Wind Farm LLC,RWE Renewables Americas LLC,56215,TX,WSC,WT,2969775,338513.0
+8468,56593,Roscoe Wind Farm LLC,RWE Renewables Americas LLC,56215,TX,WSC,WT,4480500,510715.0
+8469,56594,Munnsville Wind Farm LLC,RWE Renewables Americas LLC,56215,NY,MAT,WT,782578,89203.0
+8475,56602,Snyder Wind Farm,Snyder Wind Farm LLC,55847,TX,WSC,WT,469619,53530.0
+8479,56605,"Langdon Renewables, LLC",FPL Energy Langdon Wind LLC,55799,ND,WNC,WT,4483503,511057.0
+8481,56607,Prairie Winds ND1,Basin Electric Power Coop,1307,ND,WNC,WT,2490936,283932.0
+8482,56608,Prairie Winds SD1,Basin Electric Power Coop,1307,SD,WNC,WT,2752194,313712.0
+8489,56613,Logan Wind Energy,Logan Wind Energy LLC,55862,CO,MTN,WT,4889965,557388.0
+8490,56614,Old Trail Wind Farm,Old Trail Wind Farm LLC,55866,IL,ENC,WT,4755248,542032.0
+8494,56617,Fenton Wind Farm,"EDF Renewable Asset Holdings, Inc.",57170,MN,WNC,WT,4280021,487863.0
+8495,56618,Clinton,"Valcour Operating Services, LLC",63858,NY,MAT,WT,1543417,175928.0
+8496,56619,Ellenburg,"Valcour Operating Services, LLC",63858,NY,MAT,WT,1467083,167227.0
+8497,56620,Bliss,"Valcour Operating Services, LLC",63858,NY,MAT,WT,1721806,196262.0
+8498,56621,Sleeping Bear LLC,NRG Energy Gas & Wind Holdings Inc,59883,OK,WSC,WT,1643349,187319.0
+8499,56622,Providence Heights Wind LLC,Avangrid Renewables LLC,15399,IL,ENC,WT,1611109,183644.0
+8500,56623,Elkhorn Valley Wind Farm,Telocaset Wind Power Partners,55880,OR,PACC,WT,2591818,295431.0
+8501,56624,BC Energy LLC,Ewington Wind Project,57158,MN,WNC,WT,37751,4303.0
+8502,56625,KC Energy LLC,Ewington Wind Project,57158,MN,WNC,WT,37751,4303.0
+8503,56626,K&D Energy LLC,Ewington Wind Project,57158,MN,WNC,WT,37751,4303.0
+8504,56627,KSS Turbines LLC,Ewington Wind Project,57158,MN,WNC,WT,37751,4303.0
+8505,56628,Prairie Wind Power LLC,Ewington Wind Project,57158,MN,WNC,WT,37751,4303.0
+8509,56630,Taconite Ridge 1 Wind Energy Center,"ALLETE, Inc.",12647,MN,WNC,WT,521283,59419.0
+8510,56633,Dutch Hill Wind Project,"Evergreen Wind, LLC",59155,NY,MAT,WT,482346,54981.0
+8511,56634,Cohocton Wind Project,"Evergreen Wind, LLC",59155,NY,MAT,WT,1016142,115826.0
+8512,56635,Harvest,"Harvest Windfarm, LLC",55873,MI,ENC,WT,1081537,123280.0
+8513,56636,Mountain Home,"Hot Springs Windfarm, LLC",55891,ID,MTN,WT,325272,37076.56
+8514,56637,Bennett Creek Windfarm LLC - Mountain Home,Bennett Creek Windfarm LLC,55890,ID,MTN,WT,329988,37614.0
+8515,56638,Buffalo Gap 3 Wind Farm,AES Wind Generation Inc,19740,TX,WSC,WT,3539467,403450.0
+8517,56640,Camp Grove Wind Farm,Orion Energy Group LLC,55931,IL,ENC,WT,3502883,399280.0
+8521,56644,Stanton Wind Energy LLC,Invenergy Services LLC,49893,TX,WSC,WT,2408627,274550.0
+8522,56645,Osceola Windpower LLC,Osceola Windpower LLC,55901,IA,WNC,WT,3556512,405393.0
+8523,56647,Butler Ridge,Butler Ridge Wind Energy Center,56484,WI,ENC,WT,1312855,149647.0
+8524,56648,Majestic 1 Wind Farm,NextEra Energy Majestic Wind,58353,TX,WSC,WT,2552707,290973.0
+8525,56649,South Trent Wind Farm,NRG Energy Inc,55397,TX,WSC,WT,1899408,216506.0
+8526,56650,Wessington Springs,Wessington Wind,59102,SD,WNC,WT,1972092,224791.0
+8527,56651,North Allegheny Windpower Project,Duke Energy DEGS North Allegheny,56385,PA,MAT,WT,1394311,158932.0
+8528,56654,Hatchet Ridge Wind Project,Pattern Operators LP,56545,CA,PACC,WT,2471152,281677.0
+8529,56659,Michigan Wind 2,"Michigan Wind 2, LLC",56951,MI,ENC,WT,2970891,338640.0
+8530,56661,Pattern Gulf Wind,Pattern Operators LP,56545,TX,WSC,WT,192146,21902.0
+8531,56665,Dempsey Ridge Wind Farm,Acciona Wind Energy USA LLC,55918,OK,WSC,WT,3029658,345339.0
+8532,56666,Goodnoe Hills,PacifiCorp,14354,WA,PACC,WT,2867298,326832.0
+8535,56669,Tatanka Wind Power LLC,Acciona Wind Energy USA LLC,55918,ND,WNC,WT,3274066,373198.0
+8536,56670,Velva Windfarm LLC,Acciona Wind Energy USA LLC,55918,ND,WNC,WT,264075,30101.0
+8539,56673,Whirlwind Energy Center,Whirlwind Energy LLC,55922,TX,WSC,WT,1575693,179607.0
+8541,56677,Charles City Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,2166695,246973.0
+8542,56679,Benton County Wind Farm,Orion Energy Group LLC,55931,IN,ENC,WT,2836407,323311.0
+8574,56699,Forward Windpower LLC,NRG Energy Gas & Wind Holdings Inc,59883,PA,MAT,WT,530458,60465.0
+8575,56700,Lookout Windpower LLC,NRG Energy Gas & Wind Holdings Inc,59883,PA,MAT,WT,944949,107711.0
+8577,56702,Tuolumne Wind Project,Turlock Irrigation District,19281,WA,PACC,WT,3705399,422364.0
+8586,56750,Jeffers Wind 20 LLC,Northern States Power Co - Minnesota,13781,MN,WNC,WT,871940,99389.0
+8587,56751,Spanish Fork Wind Park 2 LLC,NRG Energy Gas & Wind Holdings Inc,59883,UT,MTN,WT,406295,46312.0
+8588,56752,Mountain Wind Power LLC,NRG Energy Gas & Wind Holdings Inc,59883,WY,MTN,WT,968310,110374.0
+8589,56753,Mountain Wind Power II LLC,NRG Energy Gas & Wind Holdings Inc,59883,WY,MTN,WT,1371244,156303.0
+8590,56754,Goat Wind LP,NRG Energy Gas & Wind Holdings Inc,59883,TX,WSC,WT,2670186,304364.0
+8591,56755,Odin Wind Farm LLC,NRG Energy Gas & Wind Holdings Inc,59883,MN,WNC,WT,508430,57954.0
+8592,56763,Capricorn Ridge Wind LLC,Capricorn Ridge Wind LLC,55958,TX,WSC,WT,19821813,2259411.0
+8593,56764,Winnebago Wind Power Project,Avangrid Renewables LLC,15399,IA,WNC,WT,543251,61923.0
+8594,56765,Barton Windpower LLC,Avangrid Renewables LLC,15399,IA,WNC,WT,3581156,408202.0
+8595,56767,Farmers City Wind LLC,Avangrid Renewables LLC,15399,MO,WNC,WT,2428427,276807.0
+8597,56770,Locust Ridge II LLC,Avangrid Renewables LLC,15399,PA,MAT,WT,1770724,201838.0
+8598,56771,Silver Star I Wind Power Project,Silver Star I Power Partners LLC,62076,TX,WSC,WT,568675,64821.0
+8599,56773,McAdoo Wind Energy LLC,Invenergy Services LLC,49893,TX,WSC,WT,3919533,446772.0
+8600,56774,Turkey Track Wind Energy LLC,Invenergy Services LLC,49893,TX,WSC,WT,3392493,386697.0
+8601,56775,Scurry County Wind II,Invenergy Services LLC,49893,TX,WSC,WT,2453079,279617.0
+8602,56776,Gunsight Mountain Wind Energy LLC,Invenergy Services LLC,49893,TX,WSC,WT,4453773,507668.0
+8603,56777,Fowler Ridge Wind Farm LLC,AE Power Services LLC,55963,IN,ENC,WT,12014651,1369503.0
+8604,56779,Sherbino I Wind Farm,Sherbino Mesa I Windfarm LLC,62811,TX,WSC,WT,1045021,119118.0
+8606,56782,Diamond Willow Wind Facility,Montana-Dakota Utilities Co,12199,MT,MTN,WT,864501,98541.0
+8607,56783,Elbow Creek Wind Project LLC,Elbow Creek Wind Project LLC,55981,TX,WSC,WT,2609547,297452.0
+8608,56784,Cloud County Wind Farm,"Cloud County Windfarm, LLC",55990,KS,WNC,WT,4304350,490636.0
+8618,56789,Pebble Springs Wind LLC,Avangrid Renewables LLC,15399,OR,PACC,WT,2243352,255711.0
+8619,56790,Hay Canyon Wind Power LLC,Avangrid Renewables LLC,15399,OR,PACC,WT,1967090,224221.0
+8620,56791,Dillon Wind LLC,Avangrid Renewables LLC,15399,CA,PACC,WT,1258434,143444.0
+8621,56792,Buffalo Ridge I LLC,Avangrid Renewables LLC,15399,SD,WNC,WT,1011508,115298.0
+8622,56793,Elm Creek Wind LLC,Avangrid Renewables LLC,15399,MN,WNC,WT,2120278,241682.0
+8623,56794,Moraine II Wind LLC,Avangrid Renewables LLC,15399,MN,WNC,WT,1132296,129066.0
+8624,56795,Penascal Wind Power LLC,Avangrid Renewables LLC,15399,TX,WSC,WT,3278997,373760.0
+8625,56796,South Chestnut LLC,Avangrid Renewables LLC,15399,PA,MAT,WT,948272,108090.0
+8626,56797,Pioneer Prairie Wind Farm,"Pioneer Prairie Wind Farm I, LLC",55992,IA,WNC,WT,7339168,836563.0
+8633,56800,Hull Wind II,Hull Municipal Light Plant,8797,MA,NEW,WT,28065,3199.0
+8635,56804,Red Hills Wind Project LLC,Acciona Wind Energy USA LLC,55918,OK,WSC,WT,3512033,400323.0
+8636,56805,EcoGrove Wind LLC,Acciona Wind Energy USA LLC,55918,IL,ENC,WT,2282927,260222.0
+8647,56809,Carroll Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,4562742,520089.0
+8648,56810,Adair Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,4279162,487765.0
+8649,56811,Walnut Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,4755599,542072.0
+8654,56818,Central Plains Wind Farm,"Evergy Kansas Central, Inc",22500,KS,WNC,WT,2109819,240490.0
+8655,56819,Flat Ridge Wind Farm,"Evergy Kansas Central, Inc",22500,KS,WNC,WT,1061587,121006.0
+8656,56823,Hackberry Wind Farm,Hackberry Wind LLC,56033,TX,WSC,WT,3668719,418183.0
+8657,56824,Marshall Wind 2 LLC,"Marshall Wind Farm, LLC",63166,MN,WNC,WT,56358,6424.0
+8658,56825,Marshall Wind 3 LLC,"Marshall Wind Farm, LLC",63166,MN,WNC,WT,56358,6424.0
+8659,56826,Marshall Wind 4 LLC,"Marshall Wind Farm, LLC",63166,MN,WNC,WT,56358,6424.0
+8660,56827,Marshall Wind 5 LLC,"Marshall Wind Farm, LLC",63166,MN,WNC,WT,28179,3212.0
+8661,56828,Marshall Wind 6 LLC,"Marshall Wind Farm, LLC",63166,MN,WNC,WT,28179,3212.0
+8662,56829,Kibby Wind Facility,"Helix Maine Wind Development, LLC",61191,ME,NEW,WT,2507746,285848.0
+8663,56831,Crane Creek Wind Energy Center,Wisconsin Public Service Corp,20860,IA,WNC,WT,1906549,217320.0
+8666,56834,High Plains,High Plains Wind Power LLC,56046,TX,WSC,WT,31705,3614.0
+8667,56835,Ribeye Wind (11) LLC,GlidePath Power Operations LLC,61728,TX,WSC,WT,131105,14944.0
+8668,56836,T-Bone Wind (10) LLC,GlidePath Power Operations LLC,61728,TX,WSC,WT,131121,14946.0
+8669,56837,Tri-Tip Wind (9) LLC,GlidePath Power Operations LLC,61728,TX,WSC,WT,158160,18028.0
+8670,56838,Brisket Wind (8) LLC,GlidePath Power Operations LLC,61728,TX,WSC,WT,123761,14107.0
+8671,56839,Flat Iron Wind (7) LLC,GlidePath Power Operations LLC,61728,TX,WSC,WT,131534,14993.0
+8672,56840,Marshall Wind 1 LLC,"Marshall Wind Farm, LLC",63166,MN,WNC,WT,28179,3212.0
+8673,56841,Glenrock,PacifiCorp,14354,WY,MTN,WT,4890043,557397.0
+8674,56842,Rolling Hills,PacifiCorp,14354,WY,MTN,WT,3186537,363221.0
+8675,56843,Seven Mile Hill,PacifiCorp,14354,WY,MTN,WT,4550135,518652.0
+8687,56854,Wheat Field Wind Power Project,Wheat Field Wind Power Project LLC,56073,OR,PACC,WT,2113864,240951.0
+8688,56855,Arlington Wind Power Project,Arlington Wind Power Project LLC,56074,OR,PACC,WT,2222490,253333.0
+8689,56856,Rail Splitter Wind Farm,Rail Splitter Wind Farm LLC,56075,IL,ENC,WT,2334410,266090.0
+8690,56857,Marble River Wind Farm,"Marble River, LLC",56072,NY,MAT,WT,4281276,488006.0
+8691,56858,Sagebrush Power Partners,"Sagebrush Power Partners, LLC",56071,WA,PACC,WT,2628778,299644.0
+8692,56859,Crosswind Energy Project,NRG Energy Gas & Wind Holdings Inc,59883,IA,WNC,WT,586721,66878.0
+8693,56860,Hardin Hilltop Wind LLC,NRG Energy Gas & Wind Holdings Inc,59883,IA,WNC,WT,383747,43742.0
+8704,56874,Shiloh Wind Project 2 LLC,"EDF Renewable Asset Holdings, Inc.",57170,CA,PACC,WT,3398852,387422.0
+8706,56876,Wapsipinicon Wind Project,"EDF Renewable Asset Holdings, Inc.",57170,MN,WNC,WT,2577307,293777.0
+8708,56878,Hoosier Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",57170,IN,ENC,WT,2048558,233507.0
+8709,56879,Flat Ridge Wind Energy LLC,AE Power Services LLC,55963,KS,WNC,WT,1210928,138029.0
+8726,56901,Altona,"Valcour Operating Services, LLC",63858,NY,MAT,WT,1619735,184627.0
+8727,56902,Wethersfield,"Valcour Operating Services, LLC",63858,NY,MAT,WT,2321837,264657.0
+8728,56904,Chateaugay,"Valcour Operating Services, LLC",63858,NY,MAT,WT,1816082,207008.0
+8729,56905,Great Plains Windpark LLC,Great Plains Windpark Legacy LLC,61671,TX,WSC,WT,2304002,262624.0
+8734,56912,Langdon Wind II LLC,FPL Energy Langdon Wind LLC,55799,ND,WNC,WT,1614170,183993.0
+8735,56913,Osceola Windpower II,Osceola Windpower II,56121,IA,WNC,WT,1767908,201517.0
+8739,56919,FPL Energy Ashtabula Wind LLC,FPL Energy Ashtabula Wind LLC,56122,ND,WNC,WT,5203267,593100.0
+8740,56920,Panther Creek Wind Farm I,RWE Renewables Americas LLC,56215,TX,WSC,WT,4889429,557327.0
+8741,56921,Panther Creek Wind Farm II,RWE Renewables Americas LLC,56215,TX,WSC,WT,3828528,436399.0
+8743,56923,FPL Energy Crystal Lake Wind LLC,FPL Energy Crystal Lake Wind LLC,56123,IA,WNC,WT,5067366,577609.0
+8744,56924,FPL Energy Story Wind LLC,FPL Energy Story Wind LLC,56119,IA,WNC,WT,4953709,564654.0
+8745,56925,FPL Energy Crystal Lake Wind II LLC,FPL Energy Crystal Lake Wind II LLC,56124,IA,WNC,WT,6601992,752535.0
+8750,56933,Threemile Canyon,"Threemile Canyon Wind I, LLC",56159,OR,PACC,WT,221061,25198.0
+8751,56934,Cassia Wind,"Cassia Wind Farm, LLC",56158,ID,MTN,WT,166634,18993.97
+8752,56935,Cassia Gulch,"Cassia Gulch Wind Park, LLC",56157,ID,MTN,WT,368311,41982.27
+8761,56941,Grand Ridge Wind Energy Center,Invenergy Services LLC,49893,IL,ENC,WT,2231999,254417.0
+8762,56942,Forward Wind Energy Center,Wisconsin Public Service Corp,20860,WI,ENC,WT,1325793,151122.0
+8764,56945,High Lonesome Mesa LLC,NRG Energy Gas & Wind Holdings Inc,59883,NM,MTN,WT,3227631,367905.0
+8765,56946,Buffalo Bear LLC,NRG Energy Gas & Wind Holdings Inc,59883,OK,WSC,WT,407067,46400.0
+8766,56947,Elkhorn Ridge Wind LLC,NRG Energy Gas & Wind Holdings Inc,59883,NE,WNC,WT,1640252,186966.0
+8769,56952,Willow Creek Energy Center,Invenergy Services LLC,49893,OR,PACC,WT,1711139,195046.0
+8770,56953,High Sheldon Wind Farm,Invenergy Services LLC,49893,NY,MAT,WT,2269716,258716.0
+8772,56956,Bull Creek Wind,Bull Creek Wind LLC,56222,TX,WSC,WT,2699646,307722.0
+8775,56959,Ocotillo Windpower,Duke Energy DEGS Ocotillo,56273,TX,WSC,WT,389785,44430.0
+8776,56960,Happy Jack Windpower Project,Duke Energy DEGS Happy Jack,56271,WY,MTN,WT,759786,86605.0
+8778,56961,Notrees Windpower Hybrid,Duke Energy DEGS Notrees,56272,TX,WSC,WT,3425235,390429.0
+8785,56967,Butter Creek Power LLC,Echo 3,56804,OR,PACC,WT,110206,12562.0
+8786,56968,Big Top LLC,Echo 3,56804,OR,PACC,WT,32248,3676.0
+8787,56969,Four Corners Windfarm LLC,Echo 2,56803,OR,PACC,WT,213086,24289.0
+8788,56970,Four Mile Canyon Windfarm LLC,Echo 2,56803,OR,PACC,WT,202254,23054.0
+8789,56971,Oregon Trail Windfarm LLC,Echo 1,56802,OR,PACC,WT,217414,24782.0
+8790,56972,Pacific Canyon Windfarm LLC,Echo 1,56802,OR,PACC,WT,165600,18876.0
+8791,56973,Sand Ranch Windfarm LLC,Echo 1,56802,OR,PACC,WT,202542,23087.0
+8792,56974,Wagon Trail LLC,Echo 3,56804,OR,PACC,WT,66832,7618.0
+8793,56975,Ward Butte Windfarm LLC,Echo 1,56802,OR,PACC,WT,147711,16837.0
+8795,56979,Panther Creek Wind Farm Three,RWE Renewables Americas LLC,56215,TX,WSC,WT,4909081,559567.0
+8796,56980,Stony Creek Wind Farm LLC,RWE Renewables Americas LLC,56215,PA,MAT,WT,1301651,148370.0
+8798,56981,Pyron Wind Farm LLC Hybrid,RWE Renewables Americas LLC,56215,TX,WSC,WT,6166525,702898.0
+8800,56983,Papalote Creek I LLC,RWE Renewables Americas LLC,56215,TX,WSC,WT,4404108,502007.0
+8802,56984,Inadale Wind Farm LLC Hybrid,RWE Renewables Americas LLC,56215,TX,WSC,WT,4420109,503831.0
+8803,56985,Smoky Hills Wind Project Phase II,Smoky Hills Wind Project II LLC,56285,KS,WNC,WT,3081771,351279.0
+8806,56989,Stetson Wind I,"Evergreen Wind, LLC",59155,ME,NEW,WT,1111880,126739.0
+8807,56990,Rollins Wind Project,"Evergreen Wind, LLC",59155,ME,NEW,WT,1332750,151915.0
+8808,56991,Stetson Wind II,"Evergreen Wind, LLC",59155,ME,NEW,WT,500984,57105.0
+8810,56994,Grand Meadow,Northern States Power Co - Minnesota,13781,MN,WNC,WT,1971100,224678.0
+8818,57002,Oakfield Wind Project,Onward Energy,60453,ME,NEW,WT,3277915,373637.0
+8848,57031,Luverne Wind Energy Center,Otter Tail Power Co,14232,ND,WNC,WT,1524800,173806.0
+8849,57032,Ashtabula Wind Energy Center,Otter Tail Power Co,14232,ND,WNC,WT,1260996,143736.0
+8850,57033,Langdon Wind Energy Center,Otter Tail Power Co,14232,ND,WNC,WT,1239573,141294.0
+8857,57038,Bison I Wind Energy Center,"ALLETE, Inc.",12647,ND,WNC,WT,2255108,257051.0
+8858,57039,McFadden Ridge,PacifiCorp,14354,WY,MTN,WT,958643,109272.0
+8859,57040,High Plains,PacifiCorp,14354,WY,MTN,WT,3147884,358815.0
+8863,57044,Armenia Mountain Wind Farm,Allete Clean Energy,59496,PA,MAT,WT,2300104,262180.0
+8865,57045,Rolling Thunder Wind Farm Hybrid,AE Power Services LLC,55963,SD,WNC,WT,774682,88303.0
+8873,57047,Nobles Wind Project,Northern States Power Co - Minnesota,13781,MN,WNC,WT,5859435,667894.0
+8874,57048,Merricourt Wind Energy Center,Otter Tail Power Co,14232,ND,WNC,WT,289272,32973.0
+8875,57049,NaturEner Glacier Wind Energy 1,NaturEner Glacier Wind Energy 1 LLC,56365,MT,MTN,WT,2621767,298845.0
+8876,57050,NaturEner Glacier Wind Energy 2,NaturEner Glacier Wind Energy 2 LLC,56366,MT,MTN,WT,2834390,323081.0
+8928,57078,Steel Winds II,"Evergreen Wind, LLC",59155,NY,MAT,WT,453549,51698.0
+8929,57079,Milford Wind Corridor I LLC,Longroad Energy Services LLC,61219,UT,MTN,WT,3468723,395386.0
+8930,57080,Sheffield Wind,"Evergreen Wind, LLC",59155,VT,NEW,WT,609713,69499.0
+8933,57082,Kaheawa Wind Power II LLC,"Evergreen Wind, LLC",59155,HI,PACN,WT,448030,51069.0
+8934,57083,Bull Hill Wind Project,"Evergreen Wind, LLC",59155,ME,NEW,WT,889511,101392.0
+8936,57087,Kahuku Wind Power LLC,"Evergreen Wind, LLC",59155,HI,PACN,WT,597319,68086.0
+8937,57090,Campbell Hill Windpower,Duke Energy DEGS Campbell Hill,56378,WY,MTN,WT,2883852,328719.0
+8938,57091,Silver Sage Windpower,Duke Energy DEGS Silver Sage Wndpwr LLC,56377,WY,MTN,WT,1103758,125813.0
+8939,57093,Casper Wind Farm,Chevron USA,56394,WY,MTN,WT,181487,20687.0
+8940,57094,Streator Cayuga Ridge South,Avangrid Renewables LLC,15399,IL,ENC,WT,6465034,736924.0
+8941,57095,Penascal II Wind Project LLC,Avangrid Renewables LLC,15399,TX,WSC,WT,3204039,365216.0
+8942,57096,Star Point Wind Project LLC,Avangrid Renewables LLC,15399,OR,PACC,WT,2162747,246523.0
+8943,57097,Rugby Wind Power Project,Avangrid Renewables LLC,15399,ND,WNC,WT,3185678,363123.0
+8944,57098,Dry Lake Wind LLC,Avangrid Renewables LLC,15399,AZ,MTN,WT,974898,111125.0
+8953,57106,Mesalands Comm College Wind Turbine,Mesalands Community College,56410,NM,MTN,WT,7745,883.0
+8954,57107,Milford Wind Corridor Stage II LLC,Milford Wind Corridor Stage II LLC,56409,UT,MTN,WT,1711726,195113.0
+8955,57108,Blue Canyon Windpower V LLC,Blue Canyon Windpower V LLC,56416,OK,WSC,WT,3114037,354957.0
+8956,57109,Meadow Lake Wind Farm LLC,Meadow Lake Wind Farm LLC,56417,IN,ENC,WT,3990024,454807.0
+8957,57110,Blackstone Wind Farm LLC,Blackstone Wind Farm LLC,56418,IL,ENC,WT,2114635,241039.0
+8958,57111,Lost Lakes Wind Farm LLC,Lost Lakes Wind Farm LLC,56419,IA,WNC,WT,2810606,320370.0
+8959,57112,Meadow Lake Wind Farm II LLC,Meadow Lake Wind Farm II LLC,56420,IN,ENC,WT,2120319,241687.0
+8960,57113,Blackstone Wind Farm II LLC,Blackstone Wind Farm II LLC,56421,IL,ENC,WT,4209292,479801.0
+8961,57115,Meadow Lake Wind Farm III LLC,Meadow Lake Wind Farm III LLC,56423,IN,ENC,WT,2276837,259528.0
+8962,57116,Quilt Block Wind Farm LLC,Quilt Block Wind Farm LLC,56424,WI,ENC,WT,3346488,381453.0
+8963,57118,Greensburg,"Greensburg Wind Farm, LLC",56246,KS,WNC,WT,182338,20784.0
+8967,57120,Wilton Wind II LLC,Wilton Wind II LLC,56415,ND,WNC,WT,1795474,204659.0
+8968,57121,Ashtabula Wind II LLC,Ashtabula Wind II LLC,56414,ND,WNC,WT,3409653,388653.0
+8972,57124,Payne's Ferry,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,586353,66836.0
+8973,57125,Camp Reed,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,611469,69699.0
+8974,57126,Yahoo Creek,Idaho Wind Partners 1 LLC,56592,ID,MTN,WT,594239,67735.0
+8976,57130,Beaver Ridge Wind,Beaver Ridge Wind LLC,56439,ME,NEW,WT,98255,11200.0
+8977,57131,Stoney Corners Wind Farm,DTE Sustainable Generation,64331,MI,ENC,WT,1185232,135100.0
+8980,57135,Big Sky Wind LLC,RWE Renewables Americas LLC,56215,IL,ENC,WT,3794575,432529.0
+8981,57136,Tuana Springs,"Tuana Springs Energy, LLC",56475,ID,MTN,WT,291235,33196.63
+8982,57137,Eurus Combine Hills Turbine Ranch 2,Eurus Combine Hills II LLC,56483,OR,PACC,WT,1663510,189617.0
+8986,57139,Cambria Wind LLC,Exus North America Management Partners LLC,63081,PA,MAT,WT,1200128,136798.0
+8988,57151,Beech Ridge Energy LLC,Invenergy Services LLC,49893,WV,SAT,WT,2445237,278723.0
+8989,57152,Harvest Wind Project,Harvest Wind Project TIC,56499,WA,PACC,WT,2599432,296299.0
+8990,57153,Langford Wind Power,Langford Wind Power LLC,56506,TX,WSC,WT,3129275,356694.0
+8991,57156,Barton Chapel Wind Farm,Avangrid Renewables LLC,15399,TX,WSC,WT,2188970,249512.0
+8992,57159,Windy Flats Wind Project,Windy Flats Partners LLC,56514,WA,PACC,WT,6763079,770897.0
+9004,57171,Cedar Hills Wind Farm,Montana-Dakota Utilities Co,12199,ND,WNC,WT,489058,55746.0
+9007,57174,Colorado Highlands Wind,Colorado Highlands Wind LLC,56523,CO,MTN,WT,3317755,378178.0
+9008,57176,University of Delaware Wind Turbine,First State Marine Wind,56518,DE,SAT,WT,45434,5179.0
+9009,57177,Meadow Lake Wind Farm IV,Meadow Lake Wind Farm IV LLC,56520,IN,ENC,WT,1647631,187807.0
+9011,57182,PPL Frey Farm Landfill Wind,EPP Renewable Energy,57249,PA,MAT,WT,56479,6438.0
+9017,57187,Pillar Mountain Wind Project Microgrid,Kodiak Electric Assn Inc,10433,AK,PACN,WT,216535,24682.0
+9018,57188,Vantage Wind Energy LLC,Invenergy Services LLC,49893,WA,PACC,WT,2718455,309866.0
+9019,57189,Lost Creek Wind Energy Facility,Pattern Operators LP,56545,MO,WNC,WT,3374507,384647.0
+9022,57192,Spring Valley Wind Project,Pattern Operators LP,56545,NV,MTN,WT,2570410,292991.0
+9023,57194,Day County Wind LLC,Day County Wind LLC,56561,SD,WNC,WT,3066355,349522.0
+9024,57195,Lower Snake River Wind Energy Project,Puget Sound Energy Inc,15500,WA,PACC,WT,8473735,965888.0
+9027,57198,Bent Tree Wind Farm Phase 1,Wisconsin Power & Light Co,20856,MN,WNC,WT,4565206,520370.0
+9028,57199,Glacier Hills,Wisconsin Electric Power Co,20847,WI,ENC,WT,3418663,389680.0
+9030,57201,FPL Energy Montezuma Winds LLC,FPL Energy Montezuma Wind,56555,CA,PACC,WT,783947,89359.0
+9038,57210,Cedar Creek II,AE Power Services LLC,55963,CO,MTN,WT,6092329,694441.0
+9039,57211,Goshen Phase II,AE Power Services LLC,55963,ID,MTN,WT,3505841,399617.0
+9040,57212,Papalote Creek II LLC,RWE Renewables Americas LLC,56215,TX,WSC,WT,4565208,520370.0
+9042,57214,Waverly Community Wind Project,Waverly Municipal Elec Utility,20214,IA,WNC,WT,52831,6022.0
+9059,57239,Roth Rock Wind Farm LLC,Roth Rock Wind Farm LLC,56603,MD,SAT,WT,911499,103898.0
+9060,57240,"Roth Rock North Wind Farm, LLC",Roth Rock Wind Farm LLC,56603,MD,SAT,WT,227835,25970.0
+9064,57244,Kit Carson Windpower,Kit Carson Windpower LLC,56612,CO,MTN,WT,1647974,187846.0
+9068,57248,Welcome Wind Turbine,Federated Rural Electric Assn,6258,MN,WNC,WT,57447,6548.0
+9071,57251,Lakota Wind Wind Farm,Iowa Lakes Electric Coop,9425,IA,WNC,WT,319512,36420.0
+9072,57252,Iowa Lakes Superior Wind Farm,Iowa Lakes Electric Coop,9425,IA,WNC,WT,340253,38784.0
+9073,57253,MA Military Reservation Wind Project,Air Force Civil Engineer Center,56619,MA,NEW,WT,80738,9203.0
+9076,57257,Iowa Lakes Community College Wind Farm,Iowa Lakes Community College,56617,IA,WNC,WT,37145,4234.0
+9077,57258,Texico Wind Ranch LP,Texico Wind LP,56630,NM,MTN,WT,4676,533.0
+9078,57260,Cedro Hill Wind LLC,NRG Energy Gas & Wind Holdings Inc,59883,TX,WSC,WT,3546854,404292.0
+9079,57261,Taloga Wind LLC,NRG Energy Gas & Wind Holdings Inc,59883,OK,WSC,WT,2885948,328958.0
+9080,57262,Laredo Ridge Wind LLC,NRG Energy Gas & Wind Holdings Inc,59883,NE,WNC,WT,2504463,285474.0
+9081,57263,Little Pringle I Wind Farm,DeWind Co.,56627,TX,WSC,WT,0,0.0
+9082,57264,Little Pringle II Wind Farm,DeWind Co.,56627,TX,WSC,WT,0,0.0
+9085,57268,Chestnut Flats Wind Farm,"EDF Renewable Asset Holdings, Inc.",57170,PA,MAT,WT,868809,99032.0
+9088,57274,Grant County Wind LLC,"Grant County Wind, LLC",56642,MN,WNC,WT,455170,51883.0
+9090,57278,Crofton Bluffs Wind LLC,NRG Energy Gas & Wind Holdings Inc,59883,NE,WNC,WT,1491585,170020.0
+9093,57282,Alta Wind Energy Center I,NRG Yield LLC,60015,CA,PACC,WT,3306131,376853.0
+9094,57283,Flat Water Wind Farm LLC,Flat Water Wind Farm LLC,56625,NE,WNC,WT,1714840,195468.0
+9095,57284,Minonk Wind Farm,Algonquin Power Co,59050,IL,ENC,WT,5426495,618545.0
+9096,57285,Sandy Ridge Wind Farm,Algonquin Power Co,59050,PA,MAT,WT,1261479,143791.0
+9097,57286,OU Spirit Wind Farm,Oklahoma Gas & Electric Co,14063,OK,WSC,WT,2634488,300295.0
+9098,57287,Hardscrabble Wind Power LLC,Avangrid Renewables LLC,15399,NY,MAT,WT,1543345,175920.0
+9099,57289,Big Blue,Big Blue Wind Farm LLC (MN),58150,MN,WNC,WT,747460,85200.0
+9100,57290,Northern Colorado Wind LLC,Northern Colorado Wind LLC,56653,CO,MTN,WT,4090500,466260.0
+9101,57291,Alta Wind Energy Center II,NRG Yield LLC,60015,CA,PACC,WT,2832311,322844.0
+9102,57292,Alta Wind Energy Center III,NRG Yield LLC,60015,CA,PACC,WT,2915462,332322.0
+9103,57293,Alta Wind Energy Center IV,NRG Yield LLC,60015,CA,PACC,WT,1420867,161959.0
+9104,57294,Alta Wind Energy Center V,NRG Yield LLC,60015,CA,PACC,WT,2248072,256249.0
+9108,57296,Carleton College,Carleton College,56654,MN,WNC,WT,67474,7691.0
+9111,57299,Dunlap,PacifiCorp,14354,WY,MTN,WT,3406048,388242.0
+9112,57300,Criterion,Criterion Power Partners LLC,56661,MD,SAT,WT,1669211,190267.0
+9113,57301,Dutch Wind Energy,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,1904,217.0
+9114,57302,Garnet Wind Energy Center,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,127735,14560.0
+9115,57303,Loraine Windpark Project LLC,Loraine Windpower Project,56667,TX,WSC,WT,3351340,382006.0
+9124,57315,Cedar Point Wind,Cedar Point LLC,56662,CO,MTN,WT,6230419,710181.0
+9127,57319,Big Horn Wind II,Avangrid Renewables LLC,15399,WA,PACC,WT,1270630,144834.0
+9128,57320,Juniper Canyon I Wind Project,Avangrid Renewables LLC,15399,WA,PACC,WT,3445209,392706.0
+9133,57325,FPL Energy Illinois Wind LLC Hybrid,FPL Energy Illinois Wind LLC,56678,IL,ENC,WT,5903115,672873.0
+9134,57326,Sunray Wind I,Diamond Shamrock Refining Company LP,56680,TX,WSC,WT,1428990,162885.0
+9135,57327,Top of the World Windpower Project,Duke Energy Top Of the World WindPower,56682,WY,MTN,WT,4735401,539770.0
+9138,57332,Crossroads Wind Farm,Oklahoma Gas & Electric Co,14063,OK,WSC,WT,6992213,797015.0
+9139,57333,Leaning Juniper Wind Power II,Avangrid Renewables LLC,15399,OR,PACC,WT,4179291,476381.0
+9147,57342,White Oak Energy LLC,White Oak Energy LLC,56684,IL,ENC,WT,3519746,401202.0
+9151,57346,Elk City LLC,Elk City LLC,56683,OK,WSC,WT,6594752,751710.0
+9152,57347,Baldwin Wind LLC,Baldwin Wind LLC,56688,ND,WNC,WT,2868613,326982.0
+9158,57351,Uilk Wind LLC,RENEW Energy Inc,56689,MN,WNC,WT,107795,12287.0
+9161,57354,Fox Island Wind LLC,Fox Island Wind LLC,56693,ME,NEW,WT,86248,9831.0
+9164,57357,Red Mesa Wind LLC,Red Mesa Wind LLC,56698,NM,MTN,WT,2020360,230293.0
+9165,57358,Keenan II Renewable Energy Co LLC,CPV Keenan II Renewable Energy Co LLC,56699,OK,WSC,WT,5144968,586455.0
+9179,57374,Lakefield Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",57170,MN,WNC,WT,4011464,457251.0
+9180,57375,Adams Wind Generations LLC,"BEAM US, LLC",63024,MN,WNC,WT,530442,60463.0
+9184,57379,"Poseidon Wind, LLC","Axium Arizona Renewables, LLC",63287,AZ,MTN,WT,1001419,114148.0
+9185,57380,New England Wind LLC,Avangrid Renewables LLC,15399,MA,NEW,WT,764977,87197.0
+9190,57385,Community Wind North LLC,Northern States Power Co - Minnesota,13781,MN,WNC,WT,495745,56508.0
+9191,57386,Ridgewind,Ridgewind Power Partners LLC,56715,MN,WNC,WT,753153,85849.0
+9192,57387,Ashtabula Wind III LLC,Ashtabula Wind III LLC,56727,ND,WNC,WT,1817319,207149.0
+9197,57396,Danielson Wind Farms LLC,"BEAM US, LLC",63024,MN,WNC,WT,489866,55838.0
+9212,57414,Notus Wind 1,Notus Clean Energy LLC,56742,MA,NEW,WT,43585,4968.0
+9213,57415,Sherbino II,Sherbino II Wind Farm LLC,62077,TX,WSC,WT,539521,61498.0
+9214,57417,Elk Wind Farm,Greenbacker Renewable Energy Corporation,60025,IA,WNC,WT,1136366,129530.0
+9215,57421,Gratiot Wind Park,DTE Electric Company,5109,MI,ENC,WT,2262820,257930.0
+9217,57424,Buffalo Ridge II LLC,Avangrid Renewables LLC,15399,SD,WNC,WT,4812990,548614.0
+9218,57427,Ryegrass Windfarm,Aegis Renewables LLC,57337,ID,MTN,WT,472093,53812.0
+9219,57428,Hammett Hill Windfarm,Aegis Renewables LLC,57337,ID,MTN,WT,506352,57717.0
+9220,57429,Mainline Windfarm,Aegis Renewables LLC,57337,ID,MTN,WT,495954,56532.0
+9221,57430,Desert Meadow Windfarm,Aegis Renewables LLC,57337,ID,MTN,WT,506597,57745.0
+9222,57431,Cold Springs Windfarm,Aegis Renewables LLC,57337,ID,MTN,WT,446766,50925.0
+9223,57432,Oak Glen Wind Farm,Minnesota Municipal Power Agny,12667,MN,WNC,WT,755058,86066.0
+9224,57434,Valley View Transmission LLC,Consolidated Edison Development Inc.,56769,MN,WNC,WT,228133,26004.0
+9233,57444,Two Ponds Windfarm,Aegis Renewables LLC,57337,ID,MTN,WT,529249,60327.0
+9236,57447,Laurel Mountain Hybrid,AES Wind Generation Inc,19740,WV,SAT,WT,2017106,229922.0
+9238,57449,Blue Creek Wind Project,Avangrid Renewables LLC,15399,OH,ENC,WT,6842616,779963.0
+9244,57459,Mountain View IV,AES Wind Generation Inc,19740,CA,PACC,WT,1422191,162110.0
+9249,57463,Bishop Hill Energy LLC,SunEdison LLC,59139,IL,ENC,WT,4831369,550709.0
+9253,57468,Crystal Lake 3 LLC,Crystal Lake 3 LLC,56786,IA,WNC,WT,1553916,177125.0
+9254,57469,Garden Wind LLC,Garden Wind LLC,56787,IA,WNC,WT,3814606,434812.0
+9260,57474,Ralls Wind Farm,Ralls Wind Farm LLC,56790,TX,WSC,WT,124261,14164.0
+9265,57484,Manzana Wind LLC,Avangrid Renewables LLC,15399,CA,PACC,WT,4234096,482628.0
+9274,57493,Settlers Trail Wind Farm LLC,RWE Renewables Americas LLC,56215,IL,ENC,WT,3356498,382594.0
+9280,57500,Laurel Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,3011559,343276.0
+9281,57501,Rolling Hills Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,10697559,1219373.0
+9289,57514,Ocotillo Express LLC,Pattern Operators LP,56545,CA,PACC,WT,4762836,542897.0
+9291,57516,KODE Novus I,DeWind Co.,56627,OK,WSC,WT,340103,38767.0
+9292,57517,DeWind Frisco,DeWind Co.,56627,TX,WSC,WT,0,0.0
+9294,57520,Trinity Hills,Trinity Hills Wind Farm LLC,62075,TX,WSC,WT,2380746,271372.0
+9300,57526,North Hurlburt Wind LLC,Caithness Shepherds Flat LLC,56865,OR,PACC,WT,5237963,597055.0
+9301,57529,Kawailoa Wind,Kawailoa Wind LLC,56868,HI,PACN,WT,910357,103768.0
+9302,57530,Palouse,Onward Energy,60453,WA,PACC,WT,3231306,368324.0
+9303,57531,Bingham Wind,Onward Energy,60453,ME,NEW,WT,4303219,490507.0
+9307,57547,Winona County Wind LLC,Winona County Wind LLC,56874,MN,WNC,WT,0,0.0
+9308,57549,South Hurlburt Wind LLC,Caithness Shepherds Flat LLC,56865,OR,PACC,WT,5560634,633835.0
+9309,57550,Horseshoe Bend Wind LLC,Caithness Shepherds Flat LLC,56865,OR,PACC,WT,5405193,616117.0
+9311,57553,Shirley Wind,Shirley Wind LLC,56891,WI,ENC,WT,534758,60955.0
+9326,57566,GE - Tehachapi,GE Wind Energy LLC,58270,CA,PACC,WT,0,0.0
+9328,57568,Record Hill Wind,Record Hill Wind LLC,56909,ME,NEW,WT,1096783,125018.0
+9329,57570,Cooper Farms VW Project,Cooper Hatchery Inc.,56912,OH,ENC,WT,115593,13176.0
+9336,57578,PaTu Wind Farm LLC,PaTu Wind Farm LLC,56916,OR,PACC,WT,279499,31859.0
+9347,57586,Shiloh III Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",57170,CA,PACC,WT,2288227,260826.0
+9350,57590,"Minco Wind I, LLC","FPLE Wind, LLC",56925,OK,WSC,WT,2455704,279916.0
+9352,57593,Broken Bow Wind LLC,NRG Energy Gas & Wind Holdings Inc,59883,NE,WNC,WT,2225885,253720.0
+9353,57594,Teichert Materials-Teichert Vernalis,"Foundation HA Energy Generation, LLC",56930,CA,PACC,WT,15440,1760.0
+9354,57595,Pinnacle Wind Force LLC,NRG Energy Gas & Wind Holdings Inc,59883,WV,SAT,WT,1483277,169073.0
+9369,57609,New Harvest Wind Project LLC,Avangrid Renewables LLC,15399,IA,WNC,WT,2560215,291829.0
+9370,57613,LE Wind Turbine 1,Lincoln Electric Company,56952,OH,ENC,WT,34022,3878.0
+9371,57614,Waverly Wind Farm LLC,Waverly Wind Farm LLC,56948,KS,WNC,WT,6239375,711202.0
+9372,57616,Blue Canyon Windpower VI LLC,Blue Canyon Windpower VI LLC,56945,OK,WSC,WT,3162745,360509.0
+9373,57617,Hidalgo Wind Farm LLC,Hidalgo Wind Farm LLC,56946,TX,WSC,WT,6015761,685713.0
+9374,57620,Paulding Wind Farm II,Paulding Wind Farm II LLC,56936,OH,ENC,WT,2754905,314021.0
+9375,57621,Rising Tree Wind Farm,Rising Tree Wind Farm LLC,56937,CA,PACC,WT,2016254,229825.0
+9376,57623,Bright Stalk Wind Farm I,Lexington Chenoa Wind Farm LLC,56940,IL,ENC,WT,6097436,695023.0
+9380,57626,Foundation ST,"Foundation HA Energy Generation, LLC",56930,CA,PACC,WT,21405,2440.0
+9381,57628,Meadow Lake Wind Farm V LLC,Meadow Lake Wind Farm V LLC,56941,IN,ENC,WT,2868839,327008.0
+9385,57631,Wolverine,"Wolverine Wind Energy, LLC",56962,IA,WNC,WT,40831,4654.0
+9386,57632,Bulldog,"Bulldog Wind Energy, LLC",56961,IA,WNC,WT,44111,5028.0
+9387,57635,Linden Wind Energy Project,Los Angeles Department of Water & Power,11208,WA,PACC,WT,922824,105189.0
+9388,57637,Union City Wind Turbine,Performance Services,56855,IN,ENC,WT,0,0.0
+9389,57638,Randolph Eastern School Wind Turbine,Performance Services,56855,IN,ENC,WT,0,0.0
+9390,57639,Ironwood Wind,Ironwood Windpower LLC,56967,KS,WNC,WT,5534788,630889.0
+9392,57643,"Vestas Towers America, Inc.","Vestas Towers America, Inc",56972,CO,MTN,WT,23519,2681.0
+9393,57644,Prairie Rose Wind Farm,"Enel Green Power NA, Inc.",59380,MN,WNC,WT,5742989,654621.0
+9397,57648,Zotos International WPGF,Zotos International,56977,NY,MAT,WT,16222,1849.0
+9398,57649,Elm Creek Wind II LLC,Avangrid Renewables LLC,15399,MN,WNC,WT,2685880,306153.0
+9412,57663,Cimarron Windpower II,"Cimarron Windpower II, LLC",56988,KS,WNC,WT,4857635,553703.0
+9428,57675,"Pioneer Trail Wind Farm, LLC",RWE Renewables Americas LLC,56215,IL,ENC,WT,3906346,445269.0
+9431,57678,"Post Rock Wind Power Project, LLC",Pattern Operators LP,56545,KS,WNC,WT,6716978,765642.0
+9447,57700,Vasco Winds,"Vasco Winds, LLC",57024,CA,PACC,WT,1982268,225951.0
+9448,57701,Montezuma Wind II,"NextEra Energy Montezuma Wind II, LLC",57026,CA,PACC,WT,1804921,205736.0
+9461,57721,Berkshire Wind Power Project,Massachusetts Mun Wholes Electric Co,11806,MA,NEW,WT,492605,56150.0
+9465,57725,Shiloh IV Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",57170,CA,PACC,WT,2435043,277561.0
+9470,57732,UMM Wind Turbine,University of Minnesota Morris Campus,57046,MN,WNC,WT,47138,5373.0
+9480,57741,Suzlon Project VIII LLC,Suzlon Project VIII LLC,57054,TX,WSC,WT,54219,6180.0
+9483,57744,Laurel Hill Wind,Laurel Wind Energy LLC,57053,PA,MAT,WT,1519851,173242.0
+9487,57748,Gordon Butte Wind LLC,Gordon Butte Wind LLC,57042,MT,MTN,WT,677635,77241.0
+9488,57749,Sawtooth Wind Project,Idaho Winds LLC,57041,ID,MTN,WT,469181,53480.0
+9490,57751,Los Vientos Wind 1A,"Los Vientos Wind 1A, LLC",57063,TX,WSC,WT,4505935,513614.0
+9491,57752,Los Vientos Wind 1B,"Los Vientos Wind 1B, LLC",57064,TX,WSC,WT,3932310,448229.0
+9494,57755,TPW Petersburg,TPW Petersburg LLC,57050,NE,WNC,WT,1714840,195468.0
+9495,57756,Coastal Energy Project,Coastal Community Action Program,57066,WA,PACC,WT,120717,13760.0
+9496,57757,Pacific Wind LLC,"EDF Renewable Asset Holdings, Inc.",57170,CA,PACC,WT,2537125,289197.0
+9498,57760,Power County Wind Park South,Power County Wind Park South LLC,57068,ID,MTN,WT,553129,63049.0
+9499,57761,Power County Wind Park North,Power County Wind Park North LLC,57069,ID,MTN,WT,616766,70303.0
+9500,57762,Cimarron Wind Energy LLC,Cimarron Wind Energy LLC,58143,KS,WNC,WT,5990241,682804.0
+9504,57766,Rockland Wind Farm,Ridgeline Energy LLC,57075,ID,MTN,WT,2266698,258372.0
+9505,57767,Brown County Wind Turbine,Adams Electric Cooperative,57077,IL,ENC,WT,25064,2857.0
+9507,57769,Mehoopany Wind Energy LLC,AE Power Services LLC,55963,PA,MAT,WT,3489067,397705.0
+9513,57774,Windstar 1,Brookfield Renewable Trading and Marketing LP,63235,CA,PACC,WT,2441939,278347.0
+9515,57775,Kingman 1,Brookfield Renewable Trading and Marketing LP,63235,AZ,MTN,WT,233126,26573.0
+9526,57787,Flat Ridge 2 Wind Energy LLC,AE Power Services LLC,55963,KS,WNC,WT,15573471,1775159.0
+9531,57791,Foundation AB,"Foundation HA Energy Generation, LLC",56930,CA,PACC,WT,20170,2299.0
+9532,57792,Foundation IE,"Foundation HA Energy Generation, LLC",56930,CA,PACC,WT,3920,447.0
+9541,57800,Bison 2 Wind Energy Center,"ALLETE, Inc.",12647,ND,WNC,WT,2774890,316299.0
+9542,57801,Bison 3 Wind Energy Center,"ALLETE, Inc.",12647,ND,WNC,WT,2813956,320752.0
+9543,57802,Magic Valley Wind Farm I LLC,RWE Renewables Americas LLC,56215,TX,WSC,WT,4733131,539511.0
+9544,57803,Lime Wind,Lime Wind LLC,57122,OR,PACC,WT,46471,5297.0
+9555,57813,GL Wind,GL Wind LLC,57127,MN,WNC,WT,87363,9958.0
+9566,57823,WCROC Wind Farm,University of Minnesota WCROC,57138,MN,WNC,WT,40619,4630.0
+9571,57830,Rippey Wind Farm,Greenbacker Renewable Energy Corporation,60025,IA,WNC,WT,1309607,149277.0
+9573,57832,Hawkeye Wind Farm,Greenbacker Renewable Energy Corporation,60025,IA,WNC,WT,1139850,129927.0
+9574,57833,Mustang Hills LLC,Longroad Energy Services 2,63800,CA,PACC,WT,2427647,276718.0
+9575,57834,Pinyon Pine I,"Pinyon Pines Wind I, LLC",59868,CA,PACC,WT,2424410,276349.0
+9576,57835,Alta Wind VIII,Brookfield Renewable Trading and Marketing LP,63235,CA,PACC,WT,1878915,214170.0
+9578,57837,Pinyon Pine II,"Pinyon Pines Wind II, LLC",59869,CA,PACC,WT,1811800,206520.0
+9589,57844,Franklin County Wind Farm,Interstate Power and Light Co,9417,IA,WNC,WT,2066928,235601.0
+9596,57851,Sigel Wind Park,DTE Electric Company,5109,MI,ENC,WT,2250966,256579.0
+9597,57852,Minden Wind Park,DTE Electric Company,5109,MI,ENC,WT,999683,113950.0
+9598,57853,McKinley Wind Park,DTE Electric Company,5109,MI,ENC,WT,453521,51695.0
+9601,57855,Ipswich Wind Turbine,Town of Ipswich - (MA),9442,MA,NEW,WT,33107,3774.0
+9603,57858,Caney River Wind Project,Caney River Wind Project,57191,KS,WNC,WT,6105761,695972.0
+9607,57862,"Wildcat Wind Farm I, LLC",RWE Renewables Americas LLC,56215,IN,ENC,WT,5228971,596030.0
+9611,57866,Golden Spread Panhandle Wnd Rch,"Golden Spread Electric Cooperative, Inc",7349,TX,WSC,WT,2143859,244370.0
+9612,57867,Howard Wind Farm,Longroad Energy Services 2,63800,NY,MAT,WT,1106897,126171.0
+9617,57873,Eclipse Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,5935417,676555.0
+9618,57874,Vienna Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,4074163,464398.0
+9619,57875,Morning Light Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,2875604,327779.0
+9622,57880,Eolos Wind Energy Research Field Station,Regents of the University of Minnesota,57215,MN,WNC,WT,24082,2745.0
+9632,57887,Wildcat Wind,"Wildcat Wind, LLC",57257,NM,MTN,WT,730736,83294.0
+9633,57888,Harvest 2,"Harvest II Windfarm, LLC",57256,MI,ENC,WT,1783938,203344.0
+9634,57889,KODE Novus II,DeWind Co.,56627,OK,WSC,WT,340103,38767.0
+9635,57890,"Horse Butte Wind I, LLC",Utah Associated Mun Power Sys,40575,ID,MTN,WT,1609012,183405.0
+9666,57913,Tule Wind LLC,Avangrid Renewables LLC,15399,CA,PACC,WT,2988890,340692.0
+9678,57927,Baffin Wind,Avangrid Renewables LLC,15399,TX,WSC,WT,4822132,549656.0
+9691,57935,Eva Creek Wind,Golden Valley Elec Assn Inc,7353,AK,PACN,WT,404333,46088.0
+9703,57947,Macho Springs Power I,Capital Power Corporation,59365,NM,MTN,WT,1132470,129086.0
+9716,57956,"Minco Wind II, LLC","FPLE Wind, LLC",56925,OK,WSC,WT,2962237,337654.0
+9718,57962,Brookfield Tehachapi 1,Consolidated Edison Development Inc.,56769,CA,PACC,WT,2198838,250637.0
+9719,57963,Musselshell Wind Project,Musselshell Wind Project LLC,57333,MT,MTN,WT,228580,26055.0
+9720,57964,Shady Oaks Wind Farm,Algonquin Power Co,59050,IL,ENC,WT,2804499,319674.0
+9721,57965,Musselshell Wind Project Two LLC,Musselshell Wind Project Two LLC,57338,MT,MTN,WT,270806,30868.0
+9725,57968,Cashton Greens Wind Farm,Cashton Greens Wind Farm LLC,57340,WI,ENC,WT,98889,11272.0
+9729,57973,Spinning Spur Wind LLC,"EDF Renewable Asset Holdings, Inc.",57170,TX,WSC,WT,5548010,632396.0
+9730,57974,Bobcat Bluff Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",57170,TX,WSC,WT,4843549,552097.0
+9731,57975,Spearville 3 LLC,"EDF Renewable Asset Holdings, Inc.",57170,KS,WNC,WT,3630216,413794.0
+9732,57976,Pocahontas Prairie Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,899952,102582.0
+9736,57979,Kingdom Community Wind,Green Mountain Power Corp,7601,VT,NEW,WT,1480654,168774.0
+9737,57980,Busch Ranch Wind Energy Farm,"Black Hills Colorado Electric, LLC",56146,CO,MTN,WT,802098,91428.0
+9738,57981,Senate Wind LLC,Algonquin Power Co,59050,TX,WSC,WT,4402080,501776.0
+9740,57983,Stephens Ranch Wind Energy LLC,Stephens Ranch Wind Energy LLC,57355,TX,WSC,WT,11919551,1358663.0
+9741,57984,Lake Winds Energy Park,Consumers Energy Co,4254,MI,ENC,WT,2398450,273390.0
+9744,57987,Canadian Hills Wind,Canadian Hills Wind LLC,57363,OK,WSC,WT,7933003,904252.0
+9748,57991,Highland North Wind Farm,Longroad Energy Services 2,63800,PA,MAT,WT,1730230,197222.0
+9752,57995,NaturEner Rim Rock Energy,NaturEner Rim Rock Energy LLC,57370,MT,MTN,WT,6190099,705585.0
+9754,57996,Auwahi Wind Energy Hybrid,Auwahi Wind Energy LLC,57372,HI,PACN,WT,799939,91182.0
+9756,57998,Twin Ridges Wind Farm,Longroad Energy Services 2,63800,PA,MAT,WT,3655640,416692.0
+9757,57999,Patton Wind Farm,Longroad Energy Services 2,63800,PA,MAT,WT,694716,79188.0
+9758,58000,"Anacacho Wind Farm, LLC",RWE Renewables Americas LLC,56215,TX,WSC,WT,2801920,319380.0
+9763,58004,Granite Reliable Power,Granite Reliable Power,57378,NH,NEW,WT,2064584,235334.0
+9769,58008,California Ridge Wind Energy LLC,SunEdison LLC,59139,IL,ENC,WT,5904896,673076.0
+9779,58018,Shooting Star,"Shooting Star Power Partners, LLC",57395,KS,WNC,WT,3854953,439411.0
+9780,58019,High Mesa,"High Mesa Energy, LLC",57396,ID,MTN,WT,812596,92624.75
+9781,58020,Beebe 1A,"Beebe Renewable Energy, LLC",57397,MI,ENC,WT,1938710,220986.0
+9782,58021,Whitetail,"Whitetail Wind Energy, LLC",57398,TX,WSC,WT,2106151,240072.0
+9785,58025,Mt Wachusett Community College,Mt Wachusett Community College,57401,MA,NEW,WT,42497,4844.07
+9786,58026,Spruce Mountain WInd,Spruce Mountain Wind LLC,57402,ME,NEW,WT,490069,55861.0
+9793,58035,Block Island Wind Farm,Deepwater Wind Block Island LLC,57406,RI,NEW,WS,1054767,120229.0
+9796,58038,Buffalo Center Wind LLC,Buffalo Center Wind LLC,57409,IA,WNC,WT,46637,5316.0
+9799,58041,Chisholm View Wind Project,Chisholm View Wind Project,57412,OK,WSC,WT,8633148,984059.0
+9802,58044,"Anchor Wind, LLC","Acciona Energy USA Global, LLC",57416,IA,WNC,WT,154984,17666.0
+9803,58045,Community Wind South,Greenbacker Renewable Energy Corporation,60025,MN,WNC,WT,631585,71992.0
+9806,58048,BayWa r.e Mozart LLC,BayWa r.e Wind LLC,57421,TX,WSC,WT,571719,65168.0
+9823,58065,Charlestown Wind Turbine,MWRA Charlestown,57443,MA,NEW,WT,14590,1663.0
+9832,58071,Windwalkers LLC,Consolidated Edison Development Inc.,56769,IA,WNC,WT,29318,3342.0
+9837,58078,Rocky Ridge Wind Project,Rocky Ridge Wind Project LLC,57451,OK,WSC,WT,5163342,588549.0
+9840,58080,Wolf Ridge Wind,NextEra Wolf Ridge LLC,57460,TX,WSC,WT,2386607,272040.0
+9850,58088,Stony Creek Wind Farm NY,Invenergy Services LLC,49893,NY,MAT,WT,2470704,281626.0
+9851,58089,Roeder Family Wind Farm LLC,Consolidated Edison Development Inc.,56769,IA,WNC,WT,32416,3695.0
+9859,58098,El Cabo Wind,Avangrid Renewables LLC,15399,NM,MTN,WT,9449495,1077111.0
+9860,58099,Montague Wind Power Facility LLC,Avangrid Renewables LLC,15399,OR,PACC,WT,5172465,589589.0
+9862,58101,Foundation Cemex River Plant,Foundation CA Fund VI Manager LLC,57476,CA,PACC,WT,25747,2935.0
+9863,58102,Foundation Cemex BMQ,Foundation CA Fund VI Manager LLC,57476,CA,PACC,WT,30566,3484.0
+9864,58103,Heritage Garden Wind Farm I LLC,DTE Sustainable Generation,64331,MI,ENC,WT,628261,71613.0
+9865,58104,Foundation Superior Farms,Foundation CA Fund VI Manager LLC,57476,CA,PACC,WT,11713,1335.0
+9866,58105,Foundation Wal-Mart Red Bluff,Foundation CA Fund VI Manager LLC,57476,CA,PACC,WT,15396,1755.0
+9867,58106,Meadow Creek Project Company,Ridgeline Energy LLC,57075,ID,MTN,WT,3166544,360942.0
+9874,58111,Bishop Hill II Wind Farm,"Bishop Hill Energy II, LLC",59870,IL,ENC,WT,2381860,271499.0
+9875,58112,Foundation Cemex Madison,"Foundation CA Fund V Manager, LLC",57484,CA,PACC,WT,15599,1778.0
+9876,58113,Foundation RRM,"Foundation CA Fund V Manager, LLC",57484,CA,PACC,WT,81220,9258.0
+9877,58114,Foundation NWNA,"Foundation CA Fund V Manager, LLC",57484,CA,PACC,WT,171677,19569.0
+9882,58121,Echo Wind Park,DTE Electric Company,5109,MI,ENC,WT,3441192,392248.0
+9888,58126,Limon Wind I,Limon,57503,CO,MTN,WT,6238725,711128.0
+9889,58127,Limon Wind II,Limon,57503,CO,MTN,WT,5362706,611274.0
+9901,58137,Ensign Wind LLC,NextEra Energy Resources Ensign Wind,58090,KS,WNC,WT,3898729,444401.0
+9907,58141,Groton Wind LLC,Avangrid Renewables LLC,15399,NH,NEW,WT,936510,106749.0
+9923,58154,North Sky River Energy LLC,North Sky River Energy LLC,58121,CA,PACC,WT,3758546,428422.0
+9924,58155,Perrin Ranch Wind LLC,Perrin Ranch Wind LLC,58132,AZ,MTN,WT,1861523,212188.0
+9940,58162,Cirrus Wind 1 LLC,Cirrus Wind 1 LLC,58134,TX,WSC,WT,191946,21879.0
+9996,58203,"Minco Wind III, LLC","FPLE Wind, LLC",56925,OK,WSC,WT,3450263,393282.0
+10011,58209,"NextEra-Blackwell Wind, LLC","Blackwell Wind, LLC",58180,OK,WSC,WT,1795774,204693.0
+10021,58218,Spion Kop Wind Farm,NorthWestern Energy,13902,MT,MTN,WT,1280771,145990.0
+10023,58220,Haviland Plastic Products,Haviland Plastic Products Co,58187,OH,ENC,WT,113488,12936.0
+10035,58233,Wagner Wind LLC,Greenbacker Renewable Energy Corporation,60025,CA,PACC,WT,119631,13636.0
+10043,58238,Georgia Mountain Community Wind Farm,Greenbacker Renewable Energy Corporation,60025,VT,NEW,WT,253997,28952.0
+10047,58242,Pattern Panhandle Wind LLC,Pattern Operators LP,56545,TX,WSC,WT,5475035,624078.0
+10125,58321,Goldthwaite Wind Energy Facility,Invenergy Services LLC,49893,TX,WSC,WT,4828000,550325.0
+10126,58322,Prairie Breeze,SunEdison LLC,59139,NE,WNC,WT,7318086,834160.0
+10128,58324,Vansycle II Wind Energy Center,FPL Energy Stateline II Inc,58298,OR,PACC,WT,2726720,310808.0
+10156,58351,Tuscola Bay Wind,Tuscola Bay Wind LLC,58340,MI,ENC,WT,3251284,370601.0
+10168,58363,Majestic II Wind,NextEra Energy Majestic Wind,58353,TX,WSC,WT,2970802,338630.0
+10173,58372,Blue Summit Wind LLC,Blue Summit Wind LLC,58360,TX,WSC,WT,3921207,446963.0
+10196,58394,Alta Wind X,NRG Yield LLC,60015,CA,PACC,WT,3047258,347345.0
+10197,58395,Alta Wind XI,NRG Yield LLC,60015,CA,PACC,WT,1884597,214818.0
+10205,58404,Pantex,Pantex (NNSA),58388,TX,WSC,WT,324355,36972.0
+10207,58407,Luther College Wind Project,Luther College Wind Energy Project LLC,58389,IA,WNC,WT,24871,2835.0
+10212,58414,NLMU Wind,New London Municipal Utilities,13468,IA,WNC,WT,37214,4242.0
+10213,58416,Headwaters Wind Farm LLC,Headwaters Wind Farm LLC,58412,IN,ENC,WT,5705004,650291.0
+10221,58424,Harbor Wind LLC,Harbor Wind Tenant LLC,58420,TX,WSC,WT,0,0.0
+10222,58425,Fire Island Wind,Fire Island Wind LLC,58422,AK,PACN,WT,414095,47201.0
+10238,58441,Swauk Wind LLC,Gamesa Wind US LLC,58430,WA,PACC,WT,117789,13426.0
+10240,58444,Junction Hilltop Wind Farm,Junction Hilltop Management LLC,58439,IA,WNC,WT,210501,23994.0
+10252,58456,Cumberland Rose,"Cumberland Rose Wind Energy, LLC",58444,IA,WNC,WT,45127,5144.0
+10253,58457,Fontanelle,"Forward Fontanelle Power, LLC",58445,IA,WNC,WT,50296,5733.0
+10254,58458,Greenfield Wind,"Greenfield Wind Power, LLC",58446,IA,WNC,WT,43524,4961.0
+10255,58459,Meadow Ridge,"Meadow Ridge Wind Energy, LLC",58447,IA,WNC,WT,49350,5625.0
+10256,58460,Sky Volt,"Sky Volt, LLC",58448,IA,WNC,WT,48278,5503.0
+10257,58461,Wiota,"Wiota Wind Energy, LLC #1",58449,IA,WNC,WT,49568,5650.0
+10260,58464,Broadview Energy Prime LLC,BayWa r.e Wind LLC,57421,NM,MTN,WT,317284,36166.0
+10261,58465,Broadview Energy Prime 2 LLC,BayWa r.e Wind LLC,57421,NM,MTN,WT,314574,35857.0
+10268,58474,Buffalo Dunes Wind Project,Buffalo Dunes Wind Project LLC,58461,KS,WNC,WT,8542903,973772.0
+10311,58511,Delta Wind Farm,Alaska Environmental Power,58488,AK,PACN,WT,33767,3849.0
+10348,58548,Huerfano River Wind,"Huerfano River Wind, LLC",58520,CO,MTN,WT,136366,15544.0
+10371,58571,Tucannon River Wind Farm,Portland General Electric Co,15248,WA,PACC,WT,8261806,941731.0
+10379,58580,Pheasant Run Wind LLC,Pheasant Run Wind LLC,58539,MI,ENC,WT,2281288,260035.0
+10390,58587,Tuscola Wind II LLC,Tuscola Wind II LLC,58545,MI,ENC,WT,2661650,303391.0
+10399,58594,Steele Flats Wind Project LLC,Steele Flats Wind Project LLC,58551,NE,WNC,WT,2772952,316078.0
+10401,58596,"Grandview Wind Farm, LLC",RWE Renewables Americas LLC,56215,TX,WSC,WT,7784511,887326.0
+10412,58608,Saddleback Ridge Wind Farm,"Saddleback Ridge Wind, LLC",58565,ME,NEW,WT,841795,95953.0
+10417,58614,Patriot Wind Farm,Avangrid Renewables LLC,15399,TX,WSC,WT,4669658,532276.0
+10424,58620,Canton Mountain Wind,Canton Mountain Wind LLC,58574,ME,NEW,WT,508842,58001.0
+10436,58630,RP Wind,Consolidated Edison Solutions Inc,57365,OH,ENC,WT,71148,8110.0
+10459,58657,Odell Wind Farm,Algonquin Power Co,59050,MN,WNC,WT,6977842,795377.0
+10460,58658,Courtenay Wind Farm,Northern States Power Co - Minnesota,13781,ND,WNC,WT,6162734,702466.0
+10463,58661,Cape Cod Air Force Station - 6 SWS,US Air Force,58604,MA,NEW,WT,75686,8627.0
+10467,58666,Alexander Wind Farm LLC,SRIV Partnership LLC,62042,KS,WNC,WT,1885318,214900.0
+10476,58677,Gratiot County Wind LLC,Invenergy Services LLC,49893,MI,ENC,WT,2382923,271620.0
+10480,58681,Route 66 Wind Plant,Onward Energy,60453,TX,WSC,WT,4420347,503858.0
+10482,58683,"Osage Wind, LLC","Enel Green Power NA, Inc.",59380,OK,WSC,WT,4905905,559205.0
+10485,58686,Hancock Wind Plant,Onward Energy,60453,ME,NEW,WT,1162958,132561.0
+10489,58690,Apple Blossom Wind Farm,"Apple Blossom Wind, LLC",60456,MI,ENC,WT,2359901,268996.0
+10490,58691,South Fork Wind Farm,"South Fork Wind, LLC",60458,MN,WNC,WT,416920,47523.0
+10491,58692,Black Oak Wind Farm,"Black Oak Wind, LLC",58625,MN,WNC,WT,2624433,299149.0
+10492,58694,Walnut Ridge Wind Farm,"BHE Renewables, LLC",59359,IL,ENC,WT,6815882,776916.0
+10493,58695,Grande Prairie Wind Farm,"BHE Renewables, LLC",59359,NE,WNC,WT,13619344,1552416.0
+10520,58719,Brookfield,DTE Electric Company,5109,MI,ENC,WT,2232305,254452.0
+10521,58720,Pattern Panhandle Wind 2 LLC,Pattern Operators LP,56545,TX,WSC,WT,5824840,663951.0
+10550,58765,Miami Wind Energy Center,Invenergy Services LLC,49893,TX,WSC,WT,9763392,1112891.0
+10551,58766,Wake Wind Energy Center,Southern Power Co,17650,TX,WSC,WT,10102986,1151600.0
+10552,58767,Buckeye Wind Energy Center,Invenergy Services LLC,49893,KS,WNC,WT,7208065,821619.0
+10553,58768,Marsh Hill Wind Farm,Invenergy Services LLC,49893,NY,MAT,WT,436026,49701.0
+10554,58769,Spring Canyon Expansion Wind Energy Ctr,NRG Yield LLC,60015,CO,MTN,WT,2138032,243706.0
+10556,58771,Roosevelt County,"EDF Renewable Asset Holdings, Inc.",57170,NM,MTN,WT,9643955,1099277.0
+10557,58772,Longhorn Wind,"EDF Renewable Asset Holdings, Inc.",57170,TX,WSC,WT,6220040,708998.0
+10558,58773,TX Hereford Wind,"EDF Renewable Asset Holdings, Inc.",57170,TX,WSC,WT,6606324,753029.0
+10559,58774,Spinning Spur Wind II,"EDF Renewable Asset Holdings, Inc.",57170,TX,WSC,WT,4484214,511138.0
+10560,58775,Spinning Spur Wind III,"EDF Renewable Asset Holdings, Inc.",57170,TX,WSC,WT,7073644,806297.0
+10598,58830,Cross Winds Energy Park,Consumers Energy Co,4254,MI,ENC,WT,6332283,721792.0
+10602,58833,Red Horse 2,Red Horse 2,59146,AZ,MTN,WT,603996,68847.0
+10606,58836,Lakeswind Power Partners,Lakeswind Power Partners,58710,MN,WNC,WT,1445615,164780.0
+10607,58837,Na Pua Makani Wind Project,Na Pua Makani Power Partners LLC,58718,HI,PACN,WT,126226,14388.0
+10608,58838,Keechi Wind,"Keechi Wind, LLC",62969,TX,WSC,WT,3781962,431091.0
+10635,58872,Bison 4 Wind Energy Center,"ALLETE, Inc.",12647,ND,WNC,WT,7071013,805997.0
+10644,58883,Highland Wind Project (IA),MidAmerican Energy Co,12341,IA,WNC,WT,13321247,1518437.0
+10645,58884,Lundgren Wind Project,MidAmerican Energy Co,12341,IA,WNC,WT,6999977,797900.0
+10646,58885,Macksburg Wind Project,MidAmerican Energy Co,12341,IA,WNC,WT,2813615,320713.0
+10647,58886,Wellsburg Wind Project,MidAmerican Energy Co,12341,IA,WNC,WT,3787839,431761.0
+10648,58887,Com Adam 1WF-1,FPC Services Inc.,58760,IL,ENC,WT,54857,6252.84
+10651,58891,"Big Turtle Wind Farm, LLC",DTE Sustainable Generation,64331,MI,ENC,WT,583210,66478.0
+10656,58898,Pilot Hill Wind Farm,"EDF Renewable Asset Holdings, Inc.",57170,IL,ENC,WT,5201765,592929.0
+10659,58900,Balko Wind LLC,Balko Wind LLC,58770,OK,WSC,WT,10002386,1140133.0
+10661,58902,Kingfisher Wind LLC,Kingfisher Wind LLC,58773,OK,WSC,WT,9359447,1066847.0
+10662,58904,Fourmile Ridge,"Fourmile Wind Energy, LLC",58784,MD,SAT,WT,1109013,126412.11
+10665,58908,Beebe 1B,"Beebe 1B Renewable Energy, LLC",58785,MI,ENC,WT,1258197,143417.0
+10679,58924,Sugar Creek Wind One LLC,Sugar Creek Wind One LLC,60568,IL,ENC,WT,738739,84206.0
+10680,58927,Story City Wind Project,Hamilton Wind Energy LLC,58795,IA,WNC,WT,47067,5365.0
+10682,58932,Traer Wind Project,"Norsemen Wind Energy, LLC",58797,IA,WNC,WT,54112,6168.0
+10687,58938,Origin Wind,"Enel Green Power NA, Inc.",59380,OK,WSC,WT,5143109,586243.0
+10688,58939,Anderson Wind I,BayWa r.e Wind LLC,57421,NM,MTN,WT,159903,18227.0
+10689,58940,Anderson Wind II,BayWa r.e Wind LLC,57421,NM,MTN,WT,387698,44192.0
+10705,58958,Camelot Wind LLC,Camelot Wind LLC,58821,MA,NEW,WT,23801,2713.0
+10712,58965,"Thunder Spirit Wind, LLC",Montana-Dakota Utilities Co,12199,ND,WNC,WT,5264907,600126.0
+10713,58966,Fairfield Wind,Greenbacker Renewable Energy Corporation,60025,MT,MTN,WT,297246,33882.0
+10720,58979,Copenhagen Wind Farm,"EDF Renewable Asset Holdings, Inc.",57170,NY,MAT,WT,2409591,274660.0
+10722,58981,"Broken Bow Wind II, LLC",Consolidated Edison Development Inc.,56769,NE,WNC,WT,2884009,328737.0
+10732,58992,Dept of Corrections NCCI Wind,Dept of Corrections NCCI Wind,58844,MA,NEW,WT,37706,4298.0
+10734,58994,Breckinridge Wind Project LLC,NextEra Energy Resources Breckinridge,59394,OK,WSC,WT,3527369,402071.0
+10735,58995,St. Olaf Wind Turbine,St. Olaf College,58828,MN,WNC,WT,24792,2826.0
+10737,58998,Goodwell Wind Project LLC,"Enel Green Power NA, Inc.",59380,OK,WSC,WT,7824957,891936.29
+10738,58999,Little Elk Wind Project LLC,"Enel Green Power NA, Inc.",59380,OK,WSC,WT,2796542,318767.0
+10741,59003,Two Dot Wind Farm,NorthWestern Energy,13902,MT,MTN,WT,353867,40336.0
+10744,59005,Mariah del Norte,Mariah Holdings II LLC c/o CAMS,60475,TX,WSC,WT,6355476,724436.0
+10758,59021,Hoopeston Wind LLC,Hoopeston Wind LLC,58865,IL,ENC,WT,2828221,322378.0
+10759,59022,Kingston Wind Independence,Kingston Wind Independence,58867,MA,NEW,WT,0,0.0
+10760,59023,Ipswich Wind Independence,Ipswich Wind Independence,58866,MA,NEW,WT,0,0.0
+10761,59024,"Euclid Farm, Stamco N-54",Case Western Reserve University,58869,OH,ENC,WT,6755,770.0
+10770,59034,Shannon Wind,Shannon Wind LLC,58872,TX,WSC,WT,6002038,684149.0
+10786,59053,Michelangelo Wind 3 LLC,Michelangelo Wind 3 LLC,58887,IA,WNC,WT,91248,10401.0
+10794,59061,Radfords Run Wind Farm,RWE Renewables Americas LLC,56215,IL,ENC,WT,8930378,1017939.0
+10795,59063,Stella Wind Farm,RWE Renewables Americas LLC,56215,TX,WSC,WT,5421216,617943.0
+10796,59065,Drift Sand Wind Project LLC,"Enel Green Power NA, Inc.",59380,OK,WSC,WT,3589736,409180.0
+10797,59066,Bruennings Breeze Wind Farm,RWE Renewables Americas LLC,56215,TX,WSC,WT,4699748,535706.0
+10798,59068,"Colbeck's Corner, LLC",RWE Renewables Americas LLC,56215,TX,WSC,WT,7731234,881253.0
+10799,59070,Jericho Power,Jericho Power LLC,58891,NH,NEW,WT,221818,25284.0
+10800,59071,Carroll Area Wind Farm,SRIV Partnership LLC,62042,IA,WNC,WT,711033,81048.0
+10808,59076,Chopin Wind LLC,BayWa r.e Wind LLC,57421,OR,PACC,WT,312400,35609.0
+10815,59083,Limon III Wind LLC,Limon,57503,CO,MTN,WT,7120850,811678.0
+10816,59084,Marshall Wind Farm,"BHE Renewables, LLC",59359,KS,WNC,WT,2299333,262092.0
+10845,59118,Cameron Wind 1 LLC,Cameron Wind 1 LLC,58939,TX,WSC,WT,4180842,476558.0
+10873,59147,Fair Wind,"Fair Wind Power Partners, LLC",58962,MD,SAT,WT,793558,90454.57
+10909,59187,Beethoven Wind,NorthWestern Energy - (SD),13809,SD,WNC,WT,2717428,309749.0
+10915,59193,Chapman Ranch Wind I,Chapman Ranch Wind LLC,58998,TX,WSC,WT,6004786,684462.0
+10922,59200,Border Winds Wind Farm,Northern States Power Co - Minnesota,13781,ND,WNC,WT,5907451,673367.0
+10923,59201,Pleasant Valley Wind Farm,Northern States Power Co - Minnesota,13781,MN,WNC,WT,6926415,789515.0
+10935,59222,Passadumkeag Windpark LLC,Southern Power Co,17650,ME,NEW,WT,1257453,143332.0
+10936,59223,Optimum Wind 5 LLC,Optimum Wind 5 LLC,59017,IA,WNC,WT,83948,9569.0
+10937,59224,Optimum Wind 6 LLC,Optimum Wind 6 LLC,59018,IA,WNC,WT,90772,10347.0
+10938,59225,Optimum Wind 7 LLC,Optimum Wind 7 LLC,59019,IA,WNC,WT,91450,10424.0
+10939,59226,Optimum Wind 4 LLC,Optimum Wind 4 LLC,59024,IA,WNC,WT,80018,9121.0
+10940,59227,Optimum Wind 3 LLC,Optimum Wind 3 LLC,59025,IA,WNC,WT,84344,9614.0
+10941,59228,Leonardo Wind 1 LLC,Leonardo Wind 1 LLC,59022,IA,WNC,WT,96162,10961.0
+10942,59230,Venus Wind 3 LLC,Venus Wind 3 LLC,59021,IA,WNC,WT,99748,11370.0
+10943,59231,Michelangelo Wind 1 LLC,Michelangelo Wind 1 LLC,59026,IA,WNC,WT,94873,10814.0
+10944,59232,Michelangelo Wind 4 LLC,Michelangelo Wind 4 LLC,59027,IA,WNC,WT,93416,10648.0
+10946,59234,Arbuckle Mountain Wind Farm LLC,Arbuckle Mountain Wind Farm LLC,59039,OK,WSC,WT,3620337,412668.0
+10947,59235,Rising Tree Wind Farm II,Rising Tree Wind Farm II LLC,59040,CA,PACC,WT,466898,53220.0
+10948,59236,Rising Tree Wind Farm III,Rising Tree Wind Farm III LLC,59042,CA,PACC,WT,2176362,248075.0
+10950,59238,Windthorst-2,"EDF Renewable Asset Holdings, Inc.",57170,TX,WSC,WT,2018851,230121.0
+10955,59244,Lorenzo Wind,"Lorenzo Wind, LLC",61133,TX,WSC,WT,3283585,374283.0
+10956,59245,Fluvanna,Fluvanna Wind Energy LLC,60042,TX,WSC,WT,5388604,614226.0
+10957,59247,Hale Community Wind Farm,Hale Wind Energy,60040,TX,WSC,WT,18280099,2083677.0
+10988,59284,Mammoth Plains,Mammoth Plains Wind Project,60768,OK,WSC,WT,7091347,808315.0
+10989,59292,Rattlesnake Creek Wind Project,"Rattlesnake Creek Wind Project, LLC",61414,NE,WNC,WT,10573333,1205213.0
+10990,59295,WED NK Green,WED NK Green LLC,59097,RI,NEW,WT,23679,2699.0
+10991,59296,Northwest Ohio Wind,"Northwest Ohio Wind, LLC",59098,OH,ENC,WT,2504166,285440.0
+10995,59301,WED Coventry 1,"WED Coventry One, LLC",59105,RI,NEW,WT,25345,2889.0
+10996,59302,WED Coventry 2,"WED Coventry Two, LLC",59106,RI,NEW,WT,89704,10225.0
+10997,59305,WED Coventry 3,"WED Coventry Three, LLC",59107,RI,NEW,WT,28978,3303.0
+10998,59306,WED Coventry 4,"WED Coventry Four, LLC",59108,RI,NEW,WT,21738,2478.0
+11002,59311,Seiling Wind I,NextEra Energy Seiling Wind,59115,OK,WSC,WT,6959147,793246.0
+11003,59312,Seiling Wind II,NextEra Energy Seiling Wind,59115,OK,WSC,WT,3403345,387934.0
+11004,59313,WED Coventry 5,"WED Coventry Five, LLC",59116,RI,NEW,WT,26996,3077.0
+11005,59314,WED Coventry 6,"WED Coventry Six, LLC",59117,RI,NEW,WT,81291,9266.0
+11011,59320,Los Vientos Windpower III,"Los Vientos Windpower III, LLC",59119,TX,WSC,WT,5013482,571467.0
+11012,59321,Los Vientos Windpower IV,"Los Vientos Windpower IV, LLC",59120,TX,WSC,WT,5272601,601003.0
+11021,59328,Golden Acorn Casino,"Foundation HA Energy Generation, LLC",56930,CA,PACC,WT,38513,4390.0
+11022,59329,City of Soledad Water Reclamation,"Foundation HA Energy Generation, LLC",56930,CA,PACC,WT,30443,3470.0
+11023,59330,Taylor Farms,"Foundation HA Energy Generation, LLC",56930,CA,PACC,WT,30767,3507.0
+11024,59331,Anheuser-Busch #2,"Foundation HA Energy Generation, LLC",56930,CA,PACC,WT,29827,3400.0
+11025,59332,Mesquite Creek Wind,"Mesquite Creek Wind, LLC",59900,TX,WSC,WT,6333299,721908.0
+11059,59384,South Plains Wind Phase I,"Evergreen Wind, LLC",59155,TX,WSC,WT,7090559,808225.0
+11087,59417,Pleasant Hill Wind Energy Project,Pleasant Hill Wind Energy LLC,59188,TX,WSC,WT,349448,39832.0
+11102,59435,Oak Tree Energy,Consolidated Edison Development Inc.,56769,SD,WNC,WT,641342,73104.0
+11109,59442,Logans Gap Wind LLC,Pattern Operators LP,56545,TX,WSC,WT,5947060,677882.0
+11116,59448,Waxdale,"S.C. Johnson & Son, Inc.",59216,WI,ENC,WT,62474,7121.0
+11128,59460,"Kay Wind, LLC",Southern Power Co,17650,OK,WSC,WT,8574273,977348.0
+11142,59475,Palo Duro Wind,Palo Duro Wind,59238,TX,WSC,WT,9991972,1138946.0
+11157,59490,Jett Creek Windfarm (Burnt River),Jett Creek,59860,OR,PACC,WT,231808,26423.0
+11158,59491,Benson Creek Windfarm (Burnt River),Benson Creek,59861,OR,PACC,WT,247478,28209.0
+11159,59492,Durbin Creek Windfarm (Burnt River),Durbin Creek,59862,OR,PACC,WT,217414,24782.0
+11160,59493,Prospector Windfarm (Burnt River),Prospector,59863,OR,PACC,WT,223141,25435.0
+11161,59494,Willow Spring Windfarm (Burnt River),Willow Spring,59864,OR,PACC,WT,259943,29630.0
+11214,59547,Fowler Ridge IV Wind Farm LLC,Pattern Operators LP,56545,IN,ENC,WT,3591754,409410.0
+11271,59621,TX Jumbo Road Wind,"TX Jumbo Road Wind, LLC",59871,TX,WSC,WT,8887540,1013056.0
+11272,59622,Future Generation Wind,Consolidated Edison Solutions Inc,57365,MA,NEW,WT,112917,12871.0
+11279,59629,Jericho Rise Wind Farm LLC,Jericho Rise Wind Farm LLC,59362,NY,MAT,WT,1972697,224860.0
+11287,59637,Adams Wind,MidAmerican Energy Co,12341,IA,WNC,WT,3697364,421448.0
+11289,59639,631 Owner Turbine,Philips Lightolier,59395,MA,NEW,WT,3649,416.0
+11302,59654,Sendero,"Sendero Wind Energy, LLC",59428,TX,WSC,WT,2710673,308979.0
+11303,59655,Campbell County Wind Farm,Consolidated Edison Development Inc.,56769,SD,WNC,WT,3385125,385857.0
+11325,59684,"Lindahl Wind Project, LLC","Enel Green Power NA, Inc.",59380,ND,WNC,WT,5531727,630540.0
+11334,59692,NBC Field's Point Wind Farm,Narragansett Bay Commission,59463,RI,NEW,WT,64639,7368.0
+11346,59712,"San Roman Wind I, LLC","Acciona Energy USA Global, LLC",57416,TX,WSC,WT,2357087,268675.0
+11356,59724,Scituate Wind,Scituate Wind LLC,59493,MA,NEW,WT,29609,3375.0
+11357,59725,Fairhaven Wind,Fairhaven Wind LLC,59494,MA,NEW,WT,50919,5804.0
+11364,59732,Green Pastures Wind I,"Green Pastures Wind I, LLC",59501,TX,WSC,WT,4394999,500969.0
+11365,59733,Green Pastures Wind II,"Green Pastures Wind II, LLC",59502,TX,WSC,WT,4217735,480763.0
+11366,59734,Briscoe Wind Farm,Capital Dynamics,59503,TX,WSC,WT,2739552,312271.0
+11367,59735,Kirkwood Wind Turbine,Kirkwood Community College,59504,IA,WNC,WT,21256,2423.0
+11368,59736,"Valentine Wind, LLC","Valentine Wind, LLC",59506,NE,WNC,WT,55823,6363.0
+11408,59776,Heartland Community College,Heartland Community College,59543,IL,ENC,WT,36102,4115.0
+11430,59797,Bayonne MUA- Leitner-Poma Wind Turbine,"SUEZ North America, Inc",59568,NJ,MAT,WT,131,15.0
+11450,59817,Tooele Army Depot,Tooele Army Depot,59598,UT,MTN,WT,23898,2724.0
+11469,59837,Slate Creek Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",57170,KS,WNC,WT,5406283,616241.0
+11470,59838,Milo Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",57170,NM,MTN,WT,1900635,216646.0
+11514,59888,CP Bloom Wind LLC,Capital Power Corporation,59365,KS,WNC,WT,6383681,727651.0
+11523,59902,Cardinal Point LLC,Capital Power Corporation,59365,IL,ENC,WT,3781180,431002.0
+11524,59903,New Frontier Wind,Capital Power Corporation,59365,ND,WNC,WT,3741991,426535.0
+11556,59943,Rattlesnake Den,SunEdison LLC,59139,TX,WSC,WT,6042754,688790.04
+11566,59953,Antrim Wind,Antrim Wind Energy LLC,59714,NH,NEW,WT,703788,80222.0
+11578,59965,Latigo Wind Park,"Sustainable Power Group, LLC",58661,UT,MTN,WT,1430735,163084.0
+11580,59968,"Desert Wind Farm, LLC",Avangrid Renewables LLC,15399,NC,SAT,WT,4792400,546267.0
+11581,59972,Bearkat,"Bearkat Wind Energy 1, LLC",63428,TX,WSC,WT,5999048,683808.0
+11583,59974,Golden West Power Partners LLC,"Golden West Power Partners, LLC",59729,CO,MTN,WT,7338122,836444.0
+11584,59975,Carousel Wind Farm LLC,"Carousel Wind Farm, LLC",59730,CO,MTN,WT,5762484,656843.0
+11617,60013,"Grant Wind, LLC",Southern Power Co,17650,OK,WSC,WT,5001347,570084.0
+11619,60015,Findlay Wind Farm,Findlay Wind Farm,59760,OH,ENC,WT,67394,7682.0
+11647,60049,Golden Hills Wind,"Golden Hills Wind, LLC",59780,CA,PACC,WT,2304315,262660.0
+11658,60059,Los Vientos V Wind Power,"Los Vientos Windpower V, LLC",59792,TX,WSC,WT,3115246,355095.0
+11668,60069,"Cedar Bluff Wind, LLC","Cedar Bluff Wind, LLC",59817,KS,WNC,WT,7598602,866135.0
+11689,60087,South Plains II,Onward Energy,60453,TX,WSC,WT,9445830,1076693.0
+11690,60088,Sunflower Wind Project,Onward Energy,60453,ND,WNC,WT,4073971,464376.0
+11706,60104,"Javelina Wind Energy, LLC","Javelina Wind Energy, LLC",59882,TX,WSC,WT,8299188,945992.0
+11729,60126,Harpster Wind,"OEE XVII, LLC",59899,OH,ENC,WT,29118,3319.0
+11731,60128,Zephyr Wind,"OEE XIX, LLC",59905,OH,ENC,WT,97478,11111.0
+11735,60132,New Creek Wind,"New Creek Wind, LLC",62967,WV,SAT,WT,2838785,323582.0
+11742,60143,Peak View Wind Farm,"Black Hills Colorado Electric, LLC",56146,CO,MTN,WT,1903004,216916.0
+11744,60145,"Broadview Energy JN, LLC",Pattern Operators LP,56545,NM,MTN,WT,5995829,683441.0
+11750,60152,"Broadview Energy KW, LLC",Pattern Operators LP,56545,NM,MTN,WT,4734000,539610.0
+11782,60210,Cotton Plains Wind Farm,"Cotton Plains Wind I, LLC",59979,TX,WSC,WT,1688092,192419.0
+11784,60217,Rocksprings,"Rocksprings Val Verde Wind, LLC",59999,TX,WSC,WT,4401493,501709.0
+11785,60218,Frontier Windpower,"Frontier Windpower, LLC",59998,OK,WSC,WT,5438268,619887.0
+11825,60256,Bluestem,"Bluestem Wind Energy, LLC",60044,OK,WSC,WT,7122589,811876.0
+11828,60259,"Pioneer Wind Park, LLC","Sustainable Power Group, LLC",58661,WY,MTN,WT,2563779,292235.0
+11831,60262,Prairie Breeze II,Invenergy Services LLC,49893,NE,WNC,WT,2719762,310015.0
+11837,60270,Blue Cloud Wind Energy LLC,RWE Renewables Americas LLC,56215,TX,WSC,WT,5375900,612778.0
+11869,60314,Prairie Breeze III,Invenergy Services LLC,49893,NE,WNC,WT,1255170,143072.0
+11872,60317,"Grady Wind Energy Center, LLC",Pattern Operators LP,56545,NM,MTN,WT,7308526,833070.0
+11877,60326,O'Brien Wind,MidAmerican Energy Co,12341,IA,WNC,WT,7047516,803319.0
+11881,60329,"Ringer Hill Wind Farm, LLC",Ringer Hill Wind LLC,62892,PA,MAT,WT,994315,113338.0
+11890,60338,Electra Wind Farm,"Electra Wind, LLC",60128,TX,WSC,WT,8273455,943059.0
+11891,60339,Horse Creek Wind Farm,"Horse Creek Wind, LLC",60129,TX,WSC,WT,7684807,875961.0
+11896,60342,Ida Grove Wind,MidAmerican Energy Co,12341,IA,WNC,WT,9387022,1069990.0
+11911,60354,Brady II Wind Energy Center,"Brady Wind II, LLC",60149,ND,WNC,WT,5983134,681994.0
+11912,60355,Brady Wind Energy Center,"Brady Wind, LLC",60148,ND,WNC,WT,6098015,695089.0
+11920,60366,Old Settler Wind,"Old Settler Wind, LLC",60155,TX,WSC,WT,4501480,513106.0
+11953,60404,Pisgah Mountain Wind,"Pisgah Mountain, LLC",60207,ME,NEW,WT,265087,30216.0
+11962,60414,Bethel Wind Farm LLC,Southern Power Co,17650,TX,WSC,WT,10751971,1225575.0
+12013,60470,Paulding Wind Farm III,Paulding Wind Farm III LLC,60258,OH,ENC,WT,2590157,295242.0
+12014,60471,Green River Wind Farm,"Green River Wind Farm Phase 1, LLC",60259,IL,ENC,WT,4628995,527641.0
+12026,60486,Greenfield Wind - MT,Greenbacker Renewable Energy Corporation,60025,MT,MTN,WT,788236,89848.0
+12042,60502,"Tyler Bluff Wind Project, LLC",Southern Power Co,17650,TX,WSC,WT,3467738,395274.0
+12043,60503,Crowned Ridge Wind Energy Center,"Crowned Ridge Wind, LLC",61416,SD,WNC,WT,7102299,809563.0
+12044,60504,Blazing Star Wind Farm 1,"Blazing Star Wind Farm, LLC",60289,MN,WNC,WT,4976001,567195.0
+12045,60505,Crocker Wind Farm,"Crocker Wind Farm, LLC",60290,SD,WNC,WT,7095042,808736.0
+12081,60541,Wind GEM,"Wind GEM, LLC",60302,IA,WNC,WT,44806,5107.0
+12084,60545,"Grant Plains Wind, LLC",Southern Power Co,17650,OK,WSC,WT,4644857,529449.0
+12091,60551,Big Level Wind,Big Level Wind LLC,60328,PA,MAT,WT,2415200,275299.0
+12114,60574,"Great Western Wind Energy, LLC","EDF Renewable Asset Holdings, Inc.",57170,OK,WSC,WT,8724180,994435.0
+12127,60587,Kelly Creek Wind Project,"EDF Renewable Asset Holdings, Inc.",57170,IL,ENC,WT,5308438,605088.0
+12134,60592,Rush Springs Wind,Rush Springs Wind Project,60819,OK,WSC,WT,8366660,953683.0
+12136,60594,Voyager Wind I,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,3310034,377298.0
+12161,60619,Rush Creek Wind,Public Service Co of Colorado,15466,CO,MTN,WT,17759366,2024321.0
+12162,60620,"Ninnescah Wind Energy, LLC",Ninnescah Wind Energy LLC,60364,KS,WNC,WT,7551464,860762.0
+12177,60639,Kingman Wind,"Kingman Wind Energy, LLC",60371,KS,WNC,WT,7448550,849031.0
+12180,60645,"Javelina Wind Energy II, LLC","Javelina Wind Energy II, LLC",60384,TX,WSC,WT,6787635,773696.0
+12186,60655,Rock Creek Wind Project,"Enel Green Power NA, Inc.",59380,MO,WNC,WT,9607348,1095104.0
+12188,60657,"Salt Fork Wind Project, LLC",Southern Power Co,17650,TX,WSC,WT,6394323,728864.0
+12201,60672,Osborn Wind Energy,Osborn Wind Energy LLC,60397,MO,WNC,WT,6074794,692442.0
+12213,60687,"Cimarron Bend Wind Project I, LLC","Cimarron Bend Wind Project I, LLC",60406,KS,WNC,WT,7917421,902476.0
+12214,60688,"Cimarron Bend Wind Project II, LLC","Cimarron Bend Wind Project II, LLC",60407,KS,WNC,WT,7976919,909258.0
+12215,60689,Western Plains Wind Farm,"Evergy Kansas Central, Inc",22500,KS,WNC,WT,9735309,1109690.0
+12224,60700,Wind Colebrook South,Wind Colebrook South,60430,CT,NEW,WT,106891,12184.0
+12265,60743,"Rattlesnake Power, LLC","Rattlesnake Power, LLC",60443,TX,WSC,WT,5184626,590975.38
+12363,60856,Astra Wind Farm,Astra Wind LLC,60515,TX,WSC,WT,3857129,439659.0
+12370,60865,Equity Industrial Turbines,Equity Industrial Turbines,60521,MA,NEW,WT,77245,8805.0
+12375,60873,Prairie Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,4625669,527262.0
+12385,60883,"Deerfield Wind Energy, LLC","Deerfield Wind Energy, LLC",60537,MI,ENC,WT,4753456,541828.0
+12397,60901,Willow Springs Wind Farm,"Willow Springs Windfarm, LLC",60542,TX,WSC,WT,8370502,954121.0
+12398,60902,Dermott Wind,"Dermott Wind, LLC",60543,TX,WSC,WT,8203018,935030.0
+12402,60905,"Oliver Wind III, LLC","Oliver Wind III, LLC",60562,ND,WNC,WT,4010497,457141.0
+12407,60911,Green Energy Machine,"Green Energy Machine, LLC",60567,IA,WNC,WT,50542,5761.0
+12428,60931,CCC Hastings Wind Turbine,"CCC Hastings Renewable Energy, LLC",60578,NE,WNC,WT,69227,7891.0
+12429,60932,Creston Ridge Wind Farm,"Creston Ridge, LLC",60577,NE,WNC,WT,253136,28854.0
+12469,60983,Buckthorn Wind Project,"Buckthorn Wind Project, LLC",60617,TX,WSC,WT,3573602,407341.0
+12472,60987,Santa Rita Wind Energy,"BHE Renewables, LLC",59359,TX,WSC,WT,11215270,1278385.0
+12475,60991,Sterling I Wind Farm,AEM Wind LLC,60634,NM,MTN,WT,1209980,137921.0
+12484,60999,Reading Wind Project,Southern Power Co,17650,KS,WNC,WT,3196724,364382.0
+12486,61001,Cactus Flats Wind Energy Project,Southern Power Co,17650,TX,WSC,WT,4323387,492806.0
+12487,61002,"WED Portsmouth One, LLC","WED Portsmouth One, LLC",60621,RI,NEW,WT,44130,5030.0
+12489,61004,Whirlpool Corporation - Ottawa Wind Farm,OEE XXIV LLC,60644,OH,ENC,WT,35882,4090.0
+12490,61005,Whirlpool Corporation - Marion Wind Farm,OEE XXIII LLC,60645,OH,ENC,WT,82651,9421.0
+12517,61032,Heart of Texas Wind Project,Scout Clean Energy LLC,63074,TX,WSC,WT,3502902,399282.0
+12519,61039,Deerfield Wind LLC,Avangrid Renewables LLC,15399,VT,NEW,WT,913366,104111.0
+12520,61040,Twin Buttes II Wind,Avangrid Renewables LLC,15399,CO,MTN,WT,2971564,338717.0
+12523,61047,Coyote Ridge,Coyote Ridge LLC,63083,SD,WNC,WT,3844584,438229.0
+12531,61056,Seward Wind Farm,Seward Wind LLC,61275,NE,WNC,WT,68141,7767.0
+12535,61066,Foundation CDCR LAC,"Foundation CA Fund VIII Manager, LLC",60690,CA,PACC,WT,37898,4320.0
+12536,61067,Foundation Scheid Vineyards,"Foundation CA Fund VIII Manager, LLC",60690,CA,PACC,WT,32829,3742.0
+12540,61070,Saratoga Wind Farm,Madison Gas & Electric Co,11479,IA,WNC,WT,2426954,276639.0
+12544,61077,Orient Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,14949850,1704075.0
+12545,61079,Beaver Creek Wind,MidAmerican Energy Co,12341,IA,WNC,WT,10989262,1252623.0
+12562,61100,"Burke Wind, LLC",Burke Wind LLC,60714,ND,WNC,WT,195305,22262.0
+12565,61106,Pine River Wind Park,DTE Electric Company,5109,MI,ENC,WT,3646532,415654.0
+12592,61155,Big Timber Wind Farm,Consolidated Edison Development Inc.,56769,MT,MTN,WT,834294,95098.0
+12597,61161,Harvest Ridge  Wind Farm,Harvest Ridge Wind Farm,60719,IL,ENC,WT,2425577,276482.0
+12640,61212,Flat Top Wind I,"Flat Top Wind I, LLC",60844,TX,WSC,WT,7854844,895343.0
+12648,61221,Redbed Plains Wind Farm,Redbed Plains Wind Farm LLC,60859,OK,WSC,WT,3725813,424691.0
+12649,61222,Golden Hills North Wind Energy Center,"Golden Hills Interconnection Wind, LLC",60811,CA,PACC,WT,1446589,164891.0
+12671,61261,Rock Falls Wind Farm LLC,"EDF Renewable Asset Holdings, Inc.",57170,OK,WSC,WT,4907466,559383.0
+12678,61269,Thunder Ranch Wind Project,"Thunder Ranch Wind Project, LLC",60881,OK,WSC,WT,9860775,1123991.0
+12679,61270,Red Dirt Wind Project,"Red Dirt Wind Project, LLC",60882,OK,WSC,WT,8631736,983898.0
+12706,61303,Bluff Point Wind Facility,"Bluff Point Wind, LLC",60944,IN,ENC,WT,3253466,370850.0
+12725,61330,Hog Creek Wind Project,Hog Creek Wind Project LLC,60969,OH,ENC,WT,1761733,200813.0
+12738,61343,Karankawa Wind LLC,Avangrid Renewables LLC,15399,TX,WSC,WT,8723880,994401.0
+12739,61344,Otter Creek Wind Farm LLC,Avangrid Renewables LLC,15399,IL,ENC,WT,3405976,388234.0
+12750,61356,Valfilm Wind Project,OEE XXV LLC,60996,OH,ENC,WT,64904,7398.0
+12751,61357,Red Pine Wind Project,"EDF Renewable Asset Holdings, Inc.",57170,MN,WNC,WT,7461192,850472.0
+12786,61402,Foard City Wind,"Foard City Wind, LLC",61037,TX,WSC,WT,11424665,1302253.0
+12791,61407,Cottonwood Wind Energy Center,Cottonwood Wind Project,61042,NE,WNC,WT,3795157,432595.0
+12801,61417,Gopher Creek Wind Farm,Fluvanna Wind Energy 2 LLC,61054,TX,WSC,WT,5681931,647661.0
+12826,61442,Foundation California Training Facility,"Foundation CA Fund IX Manager, LLC",61070,CA,PACC,WT,44164,5034.0
+12827,61443,Foundation Mann Packing,"Foundation CA Fund IX Manager, LLC",61070,CA,PACC,WT,44996,5129.0
+12828,61444,Foundation SaIinas Valley State Prison,"Foundation CA Fund IX Manager, LLC",61070,CA,PACC,WT,41671,4750.0
+12913,61540,Fort Hays State University Wind Farm,Fort Hays State University,61149,KS,WNC,WT,135981,15500.0
+12936,61564,Upland Prairie,Interstate Power and Light Co,9417,IA,WNC,WT,9128122,1040479.0
+12937,61565,English Farms,Interstate Power and Light Co,9417,IA,WNC,WT,5233523,596549.0
+12955,61582,Voyager Wind II,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,4114377,468982.0
+12956,61583,Voyager Wind III,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,1198470,136609.0
+12957,61584,Voyager Wind IV,Terra-Gen Operating Co-Wind,2770,CA,PACC,WT,626295,71389.0
+12962,61589,UL Advanced Wind Turbine Test Facility,West Texas A&M University,61188,TX,WSC,WT,93222,10626.0
+12981,61609,"Heartland Divide Wind Project, LLC","Heartland Divide Wind Project, LLC",61214,IA,WNC,WT,3964464,451894.0
+13007,61638,Turtle Creek Wind Farm LLC,Turtle Creek Wind Farm LLC,61330,IA,WNC,WT,5778135,658627.0
+13012,61644,August Wind Farm,"August Wind Energy, LLC",61254,IA,WNC,WT,61121,6967.0
+13024,61660,Whirlpool Corp-Greenville Wind Farm,OEE XXVI LLC,61278,OH,ENC,WT,92634,10559.0
+13031,61668,"Creston Ridge II, LLC","Creston Ridge II, LLC",61280,NE,WNC,WT,278655,31763.0
+13036,61673,Arkwright Summit Wind Farm LLC,Arkwright Summit Wind Farm LLC,58261,NY,MAT,WT,2244177,255805.0
+13037,61674,Wildcat Ranch Wind Project,"Wildcat Ranch Wind Project, LLC",61291,TX,WSC,WT,6225373,709606.0
+13043,61677,Perennial Windfarm,"Perennial Wind, LLC",61288,NE,WNC,WT,304019,34654.0
+13100,61734,Seneca Nation Cattaraugus Wind Turbine,Seneca Nation,61363,NY,MAT,WT,26118,2977.0
+13101,61735,Hilltopper Wind Project,"Hilltopper Wind Project, LLC",61365,IL,ENC,WT,4754194,541912.0
+13110,61745,Aurora County Wind,Consolidated Edison Development Inc.,56769,SD,WNC,WT,713052,81278.0
+13111,61746,Brule County Wind,Consolidated Edison Development Inc.,56769,SD,WNC,WT,680012,77512.0
+13112,61747,"Foxtail Wind, LLC","Foxtail Wind, LLC",61374,ND,WNC,WT,5390805,614477.0
+13120,61756,Meadow Lake Wind Farm VI LLC,Meadow Lake Wind Farm VI LLC,61381,IN,ENC,WT,5436793,619719.0
+13134,61773,"Palmas Wind, LLC","Acciona Energy USA Global, LLC",57416,TX,WSC,WT,294027,33515.0
+13136,61775,Town of Otis Wind Energy Project,Town of Otis,61397,MA,NEW,WT,28074,3200.0
+13137,61776,"Midway Wind, LLC","Midway Wind, LLC",61396,TX,WSC,WT,4318860,492290.0
+13143,61782,Live Oak Wind Project,Engie North America,56201,TX,WSC,WT,7167893,817040.0
+13144,61784,Upstream Wind Energy LLC,Invenergy Services LLC,49893,NE,WNC,WT,7607735,867176.0
+13147,61787,Bishop Hill III,Invenergy Services LLC,49893,IL,ENC,WT,3721243,424170.0
+13148,61788,Hilltop Power,"Hilltop Power, LLC",61415,MN,WNC,WT,38856,4429.0
+13149,61789,"Diamond Vista Wind Project, LLC","Enel Green Power Diamond Vista Wind Project, LLC",61413,KS,WNC,WT,10136999,1155477.0
+13190,61836,"Minco Wind IV, LLC","Minco Wind IV, LLC",61458,OK,WSC,WT,4834237,551036.0
+13200,61848,"PYCO Industries, Inc. Wind Farm","PYCO Industries, Inc.",61470,TX,WSC,WT,66507,7581.0
+13211,61858,"Stillwater Wind, LLC",Pattern Operators LP,56545,MT,MTN,WT,2696082,307316.0
+13217,61865,"Rio Bravo Windpower, LLC","Rio Bravo Windpower, LLC",61485,TX,WSC,WT,5024798,572757.0
+13218,61866,Wildhorse Mountain Wind Facility,Southern Power Co,17650,OK,WSC,WT,3715602,423527.0
+13228,61876,"Persimmon Creek Wind Farm 1, LLC","Persimmon Creek Wind Farm 1, LLC",61495,OK,WSC,WT,7941091,905174.0
+13240,61889,Sholes Wind Energy Center,"Sholes Wind Energy Center, LLC",61502,NE,WNC,WT,6202013,706943.0
+13260,61911,Ivester Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,2638471,300749.0
+13265,61916,Pegasus Wind,"Pegasus Wind, LLC",61521,MI,ENC,WT,1467820,167311.0
+13269,61921,Tahoka Wind,"Tahoka Wind, LLC",61527,TX,WSC,WT,11003386,1254233.0
+13274,61925,Casa Mesa Wind Energy Center Hybrid,"Casa Mesa Wind, LLC",61531,NM,MTN,WT,1644349,187433.0
+13275,61926,"Armadillo Flats Wind Project, LLC","Armadillo Flats Wind Project, LLC",61530,OK,WSC,WT,8498747,968739.0
+13306,61957,"Pratt Wind, LLC","Pratt Wind, LLC",61537,KS,WNC,WT,9179891,1046380.0
+13314,61969,"Torrecillas Wind Energy, LLC","Torrecillas Wind Energy, LLC",61562,TX,WSC,WT,10012942,1141336.0
+13315,61970,"Blue Summit II Wind, LLC","Blue Summit II Wind, LLC",61563,TX,WSC,WT,3423970,390285.0
+13328,61984,"Solomon Forks Wind Project, LLC",Engie North America,56201,KS,WNC,WT,10308441,1175019.0
+13337,61990,TAC-Distributed Energy Resource Hybrid,Ameren Illinois,61576,IL,ENC,WT,1159,132.0
+13372,62035,Glaciers Edge Wind Project,"EDF Renewable Asset Holdings, Inc.",57170,IA,WNC,WT,6985255,796222.0
+13375,62038,Santa Rita East,Invenergy Services LLC,49893,TX,WSC,WT,11078036,1262742.0
+13410,62079,Whispering Willow North,Interstate Power and Light Co,9417,IA,WNC,WT,7124396,812082.0
+13411,62080,Richland,Interstate Power and Light Co,9417,IA,WNC,WT,1434551,163519.0
+13412,62081,Golden Plains,Interstate Power and Light Co,9417,IA,WNC,WT,5109852,582452.0
+13432,62103,Kossuth,Wisconsin Power & Light Co,20856,IA,WNC,WT,1293772,147472.0
+13435,62106,"WED Green Hill, LLC","WED Green Hill, LLC",61648,RI,NEW,WT,56437,6433.0
+13436,62107,"WED Plainfield II, LLC","WED Plainfield II, LLC",61649,RI,NEW,WT,59192,6747.0
+13437,62108,"WED Plainfield III, LLC","WED Plainfield III, LLC",61650,RI,NEW,WT,56103,6395.0
+13438,62109,"WED Plainfield, LLC","WED Plainfield, LLC",61651,RI,NEW,WT,59552,6788.0
+13439,62110,"WED Shun I, LLC","WED Shun I, LLC",61652,RI,NEW,WT,67526,7697.0
+13440,62111,"WED Shun II, LLC","WED Shun II, LLC",61653,RI,NEW,WT,61395,6998.0
+13441,62112,"WED Shun III, LLC","WED Shun III, LLC",61654,RI,NEW,WT,62403,7113.0
+13461,62130,Roseman,"Roseman Energy, LLC",61676,IA,WNC,WT,62217,7092.0
+13463,62132,Arbor Hill Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,9303793,1060503.0
+13464,62133,North English,MidAmerican Energy Co,12341,IA,WNC,WT,10967707,1250166.0
+13472,62142,Amadeus Wind Farm,Amadeus Wind LLC,61683,TX,WSC,WT,603442,68784.0
+13490,62161,Galactic Wind,Galactic Wind,61667,WI,ENC,WT,186225,21227.0
+13500,62172,Birch,Birch Power LLC,61706,IA,WNC,WT,60043,6844.0
+13526,62220,"East Fork Wind Project, LLC",Engie North America,56201,KS,WNC,WT,5266801,600342.0
+13531,62227,"Seymour Hills Wind Project, LLC",Engie North America,56201,TX,WSC,WT,1301809,148388.0
+13541,62247,Prevailing Wind Park,AES Distributed Energy,61012,SD,WNC,WT,4851771,553034.42
+13551,62258,Mesteno,Mesteno Wind,61770,TX,WSC,WT,4039079,460399.0
+13552,62259,Ranchero Wind Farm LLC,Ranchero Wind Farm LLC,61771,TX,WSC,WT,11290351,1286943.0
+13559,62269,"Stoneray Power Partners, LLC","EDF Renewable Asset Holdings, Inc.",57170,MN,WNC,WT,3411853,388904.0
+13570,62290,Polaris Wind Park,DTE Electric Company,5109,MI,ENC,WT,2640920,301028.0
+13571,62291,"Palmer's Creek Wind Farm, LLC","Palmer's Creek Wind Farm, LLC",61815,MN,WNC,WT,1237687,141079.0
+13593,62333,"Polk County Renewables, LLC","Polk County Renewables, LLC",61845,NE,WNC,WT,106855,12180.0
+13604,62356,Lockett Windfarm,"Lockett Windfarm, LLC",61886,TX,WSC,WT,6510645,742123.0
+13611,62364,Nobles 2 Wind Project,"Nobles 2 Power Partners, LLC",61890,MN,WNC,WT,718324,81879.0
+13626,62380,"Emmons-Logan Wind, LLC","Emmons-Logan Wind, LLC",61915,ND,WNC,WT,7715582,879469.0
+13651,62417,Peyton Creek Wind Farm LLC,RWE Renewables Americas LLC,56215,TX,WSC,WT,1803580,205583.0
+13659,62431,Willow Creek Wind Power LLC,Willow Creek Wind Power LLC,61981,SD,WNC,WT,1039557,118495.0
+13665,62442,"Lake Region Community Hybrid, LLC","Lake Region Community Hybrid, LLC",61893,MN,WNC,WT,72982,8319.0
+13668,62445,Busch Ranch II Wind Farm,Black Hills Electric Generation LLC,61973,CO,MTN,WT,1571570,179137.0
+13695,62478,North Fork Ridge Wind Energy Center,Empire District Electric Co,5860,MO,WNC,WT,1351,154.0
+13698,62482,Beech Ridge II Wind Energy Center,Southern Power Co,17650,WV,SAT,WT,963048,109774.0
+13703,62488,Prairie Queen Wind Farm,Prairie Queen Wind Farm LLC,62010,KS,WNC,WT,5551511,632795.0
+13708,62494,Skeleton Creek Energy Center Hybrid,Skeleton Creek Energy Center,62023,OK,WSC,WT,473812,54008.0
+13744,62562,"High Lonesome Wind Power, LLC Hybrid","High Lonesome Wind Power, LLC",62046,TX,WSC,WT,4046195,461210.0
+13745,62563,High Prairie Wind Farm,Union Electric Co - (MO),19436,MO,WNC,WT,527108,60083.0
+13746,62566,Blue Summit III Wind,"Blue Summit III Wind, LLC",62063,TX,WSC,WT,7117298,811273.0
+13750,62570,Jiminy Peak Wind QF,"Jiminy Peak Mountain Resort, LLC",62069,MA,NEW,WT,17,2.0
+13767,62587,Mesquite Star,Mesquite Star LLC,62085,TX,WSC,WT,7016548,799789.0
+13770,62591,Ekola Flats,PacifiCorp,14354,WY,MTN,WT,575237,65569.0
+13780,62606,Whitney Hill Wind Power LLC,Whitney Hill Wind Power LLC,62103,IL,ENC,WT,1657395,188920.0
+13790,62618,Hidalgo Wind Farm II,Hidalgo Wind Farm II LLC,62106,TX,WSC,WT,948247,108087.0
+13793,62620,Sage Draw Wind,"Sage Draw Wind, LLC",62113,TX,WSC,WT,8469429,965397.0
+13798,62624,"White Cloud Wind Project, LLC","White Cloud Wind Project, LLC",62079,MO,WNC,WT,541584,61733.0
+13803,62630,Jumbo Hill Wind Project,Engie North America,56201,TX,WSC,WT,4206486,479481.0
+13814,62642,GE-Lubbock,GE Wind Energy LLC,58270,TX,WSC,WT,35,4.0
+13824,62653,Zephyr Wind Project - 2.0,OEE XXX LLC,62128,OH,ENC,WT,40065,4567.0
+13874,62711,Plum Creek Wind Project (NE),"Plum Creek Wind, LLC",62633,NE,WNC,WT,4282479,488143.0
+13893,62736,Harbec Energy,Harbec Energy,62657,NY,MAT,WT,4729,539.0
+13898,62745,Wheatridge Hybrid,"Wheatridge Wind Holdings, LLC",62668,OR,PACC,WT,816117,93026.0
+13901,62752,LafargeHolcim - Paulding Wind Project,OEE XXVIII LLC,62644,OH,ENC,WT,41137,4689.0
+13912,62765,El Campo Wind,Longroad Energy Services LLC,61219,TX,WSC,WT,687435,78358.0
+13923,62782,Pembina Land Port of Entry Wind Turbine,General Services Administration - Region 8,62645,ND,WNC,WT,3211,366.0
+13933,62795,Ida Grove II,MidAmerican Energy Co,12341,IA,WNC,WT,6616429,754181.0
+13954,62840,"Mountain Breeze Wind, LLC","Mountain Breeze Wind, LLC",62726,CO,MTN,WT,1413497,161119.0
+13970,62871,Boiling Springs Wind Farm,RWE Renewables Americas LLC,56215,OK,WSC,WT,175732,20031.0
+13985,62891,Rosewater Wind Farm,Rosewater Wind Farm LLC,62761,IN,ENC,WT,203069,23147.0
+13986,62897,Holiday Hill Community Wind,Greenbacker Renewable Energy Corporation,60025,MA,NEW,WT,90835,10354.0
+14010,62935,"Orchard Windfarm 1, LLC","Orchard Windfarm, LLC",62758,OR,PACC,WT,1509,172.0
+14011,62936,Rattlesnake Flat,"Rattlesnake Flat, LLC",62778,WA,PACC,WT,27916,3182.0
+14013,62938,Glen Ullin Energy Center,Allete Clean Energy,59496,ND,WNC,WT,3875078,441705.0
+14014,62939,South Peak Wind,Allete Clean Energy,59496,MT,MTN,WT,2100739,239455.0
+14018,62944,Timber Road IV,Paulding Wind Farm IV LLC,62796,OH,ENC,WT,2655542,302695.0
+14021,62952,Cheyenne Ridge Wind Farm,Public Service Co of Colorado,15466,CO,MTN,WT,5203564,593134.0
+14074,63025,Clear Creek Wind,"Clear Creek Wind, LLC",62855,MO,WNC,WT,4465737,509032.0
+14076,63030,"Canadian Breaks, LLC",RWE Renewables Americas LLC,56215,TX,WSC,WT,7272774,828995.0
+14093,63053,Palo Alto Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,8471005,965577.0
+14128,63100,Prairie Hill Wind Project,Engie North America,56201,TX,WSC,WT,179303,20438.0
+14129,63101,Las Lomas Wind Project,Engie North America,56201,TX,WSC,WT,46049,5249.0
+14130,63103,Triple H Wind Project,Engie North America,56201,SD,WNC,WT,1045821,119209.0
+14131,63104,King Plains Wind Project,Engie North America,56201,OK,WSC,WT,871536,99343.0
+14137,63114,Mohave County Wind Farm,Mohave County Wind Farm,62916,AZ,MTN,WT,976250,111279.0
+14151,63132,Weaver Wind,Longroad Energy Services LLC,61219,ME,NEW,WT,119444,13615.0
+14152,63133,Roundhouse Wind Energy Project,"Roundhouse Renewable Energy, LLC",62913,WY,MTN,WT,4503592,513347.0
+14207,63205,Skookumchuck Wind Facility,Southern Power Co,17650,WA,PACC,WT,669836,76352.0
+14235,63251,"Lone Tree Wind, LLC","Leeward Asset Management, LLC",50123,IL,ENC,WT,219360,25004.0
+14241,63258,Aurora Wind Project,"Aurora Wind Project, LLC",63021,ND,WNC,WT,231774,26419.0
+14249,63269,Crowned Ridge Wind II Energy Center,Northern States Power Co - Minnesota,13781,SD,WNC,WT,383933,43763.0
+14261,63287,Cerro Gordo Wind Farm,Cerro Gordo Wind Farm,63072,IA,WNC,WT,695665,79296.0
+14292,63327,"Diamond Spring, LLC",Allete Clean Energy,59496,OK,WSC,WT,1556523,177422.0
+14337,63389,"Jordan Creek Wind Farm, LLC","Jordan Creek Wind Farm, LLC",63128,IN,ENC,WT,957792,109175.0
+14341,63393,"Cuming County Renewables, LLC",Cuming County Renewables. LLC,63124,NE,WNC,WT,109443,12475.0
+14383,63431,Cisco,Allete Clean Energy,59496,MN,WNC,WT,148412,16917.0
+14384,63432,Lincoln Heights I,Allete Clean Energy,59496,MN,WNC,WT,103661,11816.0
+14385,63433,Lincoln Heights II,Allete Clean Energy,59496,MN,WNC,WT,92363,10528.0
+14389,63436,Corriedale Wind Energy,Black Hills Service Company LLC,56771,WY,MTN,WT,325294,37079.0
+14405,63460,"Rock County Wind Fuel, LLC","Rock County Wind Fuel, LLC",63189,MN,WNC,WT,103083,11750.0
+14452,63521,CED Mason City Wind,Consolidated Edison Development Inc.,56769,IA,WNC,WT,169838,19359.0
+14488,63578,Sagamore Wind,Southwestern Public Service Co,17718,NM,MTN,WT,0,0.0
+14497,63590,Ponderosa Wind Energy Center,"Ponderosa Wind, LLC",63299,OK,WSC,WT,636981,72607.0
+14526,63639,Contrail Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,227931,25981.0
+14527,63641,Diamond Trail Wind Farm,MidAmerican Energy Co,12341,IA,WNC,WT,396961,45248.0
+14541,63666,"Bitter Ridge Wind Farm, LLC","Bitter Ridge Wind Farm, LLC",63373,IN,ENC,WT,980541,111768.0
+14554,63687,Gratiot Farms Wind Project,Consumers Energy Co,4254,MI,ENC,WT,333865,38056.0
+14556,63689,Red Lake Falls Community Hybrid,Consolidated Edison Development Inc.,56769,MN,WNC,WT,0,0.0
+14622,63803,"Bronco Plains Wind, LLC","Bronco Plains Wind, LLC",63487,CO,MTN,WT,5775450,658321.0
+14663,63914,Cedar Springs I,"Cedar Springs Wind, LLC",63580,WY,MTN,WT,1284428,146407.0
+14664,63915,Cedar Springs II,PacifiCorp,14354,WY,MTN,WT,1018221,116063.0
+14665,63916,Cedar Springs III,"Cedar Springs Wind III, LLC",63582,WY,MTN,WT,405444,46215.0
+14707,63988,Blooming Grove Wind Energy Center,Invenergy Services LLC,49893,IL,ENC,WT,655641,74734.0
+14736,64051,"Orchard Windfarm 2, LLC","Orchard Windfarm, LLC",62758,OR,PACC,WT,1614,184.0
+14737,64052,"Orchard Windfarm 3, LLC","Orchard Windfarm, LLC",62758,OR,PACC,WT,1412,161.0
+14738,64053,"Orchard Windfarm 4, LLC","Orchard Windfarm, LLC",62758,OR,PACC,WT,518,59.0
+14740,64057,Wheatridge 1,Portland General Electric Co,15248,OR,PACC,WT,142184,16207.0
+14745,64074,Cimarron Bend III,"Enel Kansas, LLC",61372,KS,WNC,WT,460214,52458.0
+14785,64130,"REG Juhl Glenville Wind, LLC","REG Juhl Glenville Wind, LLC",63761,MN,WNC,WT,1527,174.0
+14854,64309,Soldier Creek Wind,Soldier Creek Wind LLC,63887,KS,WNC,WT,1116049,127214.0
+14861,64332,Two Dot Wind Broadview East LLC,Two Dot Wind Broadview East LLC,63903,MT,MTN,WT,45322,5166.0
+14876,64377,Milligan 1 Wind Farm,"Milligan 1 Wind, LLC",63993,NE,WNC,WT,354282,40383.29
+15107,99999,State-Fuel Level Increment,State-Fuel Level Increment,99999,MN,WNC,WT,29413,3352.708
+15108,99999,State-Fuel Level Increment,State-Fuel Level Increment,99999,HI,PACN,WT,85789,9778.733
+15109,99999,State-Fuel Level Increment,State-Fuel Level Increment,99999,WA,PACC,WT,309634,35293.942
+15110,99999,State-Fuel Level Increment,State-Fuel Level Increment,99999,NV,MTN,WT,279086,31811.979
+15111,99999,State-Fuel Level Increment,State-Fuel Level Increment,99999,MD,SAT,WT,76102,8674.526
+15112,99999,State-Fuel Level Increment,State-Fuel Level Increment,99999,NH,NEW,WT,84267,9605.242
+15113,99999,State-Fuel Level Increment,State-Fuel Level Increment,99999,MA,NEW,WT,6973,794.787
+15114,99999,State-Fuel Level Increment,State-Fuel Level Increment,99999,ID,MTN,WT,39234,4472.169
