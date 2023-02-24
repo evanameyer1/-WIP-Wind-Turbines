@@ -1,6 +1,6 @@
 ## Analyzing the Wind Turbine Market
 
-My team was tasked with the following scenario for a 3-day data sprint. We were provided two primary datasets, and expected to use them in conjunction with external sources to deliver our findings and present to financial stakeholders. 
+We were tasked with the following scenario for a 3-day data sprint. We were provided two primary datasets, and expected to use them in conjunction with external sources to deliver our findings and present to financial stakeholders. 
 
 Scenario - You work for WOW!, a clean energy private equity firm
 based in Chicago. So far their investments have been in U.S. hydropower
