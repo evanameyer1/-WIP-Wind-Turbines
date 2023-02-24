@@ -1,4 +1,4 @@
-#Wind-Turbines
+##Analyzing the Wind Turbine Market
 
 My team was tasked with the following scenario for a 3-day data sprint. We were provided two primary datasets, and expected to use them in conjunction with external sources to deliver our findings and present to financial stakeholders. 
 
