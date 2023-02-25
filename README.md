@@ -8,3 +8,5 @@ and they are now thinking about investing in U.S. wind power. Your manager comes
 committee in time for their quarterly investment decisions.
 
 > Read our full Medium article [here](https://medium.com/@evanameyer1/analyzing-the-wind-turbine-market-fda467c9e8e5)
+
+> Interactive Tableau Dashboard [here](https://public.tableau.com/app/profile/evan.meyer5418/viz/AnalyzingtheWindTurbineMarket/Dashboard2)
